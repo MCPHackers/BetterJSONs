@@ -11,17 +11,15 @@
 			color: #005FD3;
 			text-decoration: none;
 		}
-
-		.info {
-			float: right;
-			color: #2c2c2c;
-		}
 		
 		.entry {
-			
+			display: grid;
+			grid-template-columns: 280px 200px 200px;
 		}
 
 		.wrapper {
+			display: block;
+			color: #2c2c2c;
 			background-color: #f5f5f5;
 			border: #CCCCCC 1px solid;
 			border-radius: 4px;
@@ -30,13 +28,33 @@
 		</style>
 	</head>
 	<body>
-		<div class="wrapper">
-			<div class="entry">
-				<a href="https://mcphackers.github.io/BetterJSONs/jsons/a1.1.2_01.json">a1.1.2_01.json</a>
-				<span class="info">2010-09-22T22:00:00+00:00</span>
-			</div>
+		<div class="wrapper" id="jsonlist">
 		</div>
 		<script>
+		const versionsDiv = document.getElementById("jsonlist");
+		fetch('https://mcphackers.github.io/BetterJSONs/version_manifest.json').then((response) => response.json()).then((json) => {
+			for (var i = 0; i < json.versions.length; i++) {
+				const version = json.versions[i];
+				const entry = document.createElement("div");
+				const div1 = document.createElement("div");
+				const div2 = document.createElement("div");
+				const ahref = document.createElement("a");
+				const id = document.createTextNode(version.id + ".json");
+				const type = document.createTextNode(version.type);
+				const time = document.createTextNode(version.releaseTime);
+				ahref.href = version.url;
+				ahref.appendChild(id);
+				div1.appendChild(type);
+				div2.appendChild(time);
+				entry.appendChild(ahref);
+				entry.appendChild(div1);
+				entry.appendChild(div2);
+				entry.className = "entry";
+				versionsDiv.appendChild(entry);
+			}
+		}).catch((err) => {
+			versionsDiv.innerHTML = "<b>" + err.message + "</b>";
+		})
 		</script>
 	</body>
 </html>
