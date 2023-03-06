@@ -43,6 +43,7 @@
 				const type = document.createTextNode(version.type);
 				const time = document.createTextNode(version.releaseTime);
 				ahref.href = version.url;
+				ahref.download = version.id + ".json";
 				ahref.appendChild(id);
 				div1.appendChild(type);
 				div2.appendChild(time);
