@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<title>BetterJSONs</title>
+		<link rel="icon" type="image/icon type" href="https://resources.download.minecraft.net/92/92750c5f93c312ba9ab413d546f32190c56d6f1f">
 		<style>
 		body {
 			font-family: monospace;
@@ -14,7 +15,7 @@
 		
 		.entry {
 			display: grid;
-			grid-template-columns: 280px 200px 200px;
+			grid-template-columns: 280px 200px 300px 200px;
 		}
 
 		.wrapper {
@@ -33,6 +34,7 @@
 				<b>Version</b>
 				<b>Type</b>
 				<b>Release time</b>
+				<b>Update time</b>
 			</div>
 		</div>
 		<script>
@@ -43,18 +45,22 @@
 				const entry = document.createElement("div");
 				const div1 = document.createElement("div");
 				const div2 = document.createElement("div");
+				const div3 = document.createElement("div");
 				const ahref = document.createElement("a");
 				const id = document.createTextNode(version.id + ".json");
 				const type = document.createTextNode(version.type);
 				const time = document.createTextNode(version.releaseTime);
+				const updateTime = document.createTextNode(version.time);
 				ahref.href = version.url;
 				ahref.download = version.id + ".json";
 				ahref.appendChild(id);
 				div1.appendChild(type);
 				div2.appendChild(time);
+				div3.appendChild(updateTime);
 				entry.appendChild(ahref);
 				entry.appendChild(div1);
 				entry.appendChild(div2);
+				entry.appendChild(div3);
 				entry.className = "entry";
 				versionsDiv.appendChild(entry);
 			}
