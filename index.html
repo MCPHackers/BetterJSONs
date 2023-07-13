@@ -39,7 +39,7 @@
 		</div>
 		<script>
 		const versionsDiv = document.getElementById("jsonlist");
-		fetch('https://mcphackers.github.io/BetterJSONs/version_manifest.json').then((response) => response.json()).then((json) => {
+		fetch('version_manifest.json').then((response) => response.json()).then((json) => {
 			for (var i = 0; i < json.versions.length; i++) {
 				const version = json.versions[i];
 				const entry = document.createElement("div");
