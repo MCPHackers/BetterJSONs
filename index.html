@@ -6,6 +6,17 @@
 		<style>
 		body {
 			font-family: monospace;
+			white-space: nowrap;
+		}
+
+		.version, .type, .datetime, .hash {
+			overflow: hidden;
+			display: table-cell;
+			padding: 0px 10px;
+		}
+
+		.entry {
+			display: table-row;
 		}
 
 		a {
@@ -13,9 +24,8 @@
 			text-decoration: none;
 		}
 		
-		.entry {
-			display: grid;
-			grid-template-columns: 280px 200px 300px 200px;
+		#jsonlist {
+			display: block;
 		}
 
 		.wrapper {
@@ -31,36 +41,46 @@
 	<body>
 		<div class="wrapper" id="jsonlist">
 			<div class="entry">
-				<b>Version</b>
-				<b>Type</b>
-				<b>Release time</b>
-				<b>Update time</b>
+				<b class="version">Version</b>
+				<b class="type">Type</b>
+				<b class="datetime">Release time</b>
+				<b class="datetime">Update time</b>
+				<b class="hash">SHA1 hash</b>
 			</div>
 		</div>
 		<script>
 		const versionsDiv = document.getElementById("jsonlist");
-		fetch('version_manifest.json').then((response) => response.json()).then((json) => {
+		fetch('version_manifest_v2.json').then((response) => response.json()).then((json) => {
 			for (var i = 0; i < json.versions.length; i++) {
 				const version = json.versions[i];
 				const entry = document.createElement("div");
-				const div1 = document.createElement("div");
-				const div2 = document.createElement("div");
-				const div3 = document.createElement("div");
 				const ahref = document.createElement("a");
+				ahref.className = "version";
+				const span1 = document.createElement("span");
+				span1.className = "type";
+				const span2 = document.createElement("span");
+				span2.className = "datetime";
+				const span3 = document.createElement("span");
+				span3.className = "datetime";
+				const span4 = document.createElement("span");
+				span4.className = "hash";
 				const id = document.createTextNode(version.id + ".json");
 				const type = document.createTextNode(version.type);
 				const time = document.createTextNode(version.releaseTime);
 				const updateTime = document.createTextNode(version.time);
+				const sha1 = document.createTextNode(version.sha1);
 				ahref.href = version.url;
 				ahref.download = version.id + ".json";
 				ahref.appendChild(id);
-				div1.appendChild(type);
-				div2.appendChild(time);
-				div3.appendChild(updateTime);
+				span1.appendChild(type);
+				span2.appendChild(time);
+				span3.appendChild(updateTime);
+				span4.appendChild(sha1);
 				entry.appendChild(ahref);
-				entry.appendChild(div1);
-				entry.appendChild(div2);
-				entry.appendChild(div3);
+				entry.appendChild(span1);
+				entry.appendChild(span2);
+				entry.appendChild(span3);
+				entry.appendChild(span4);
 				entry.className = "entry";
 				versionsDiv.appendChild(entry);
 			}
