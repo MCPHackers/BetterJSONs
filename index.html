@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<title>BetterJSONs</title>
+		<meta charset="UTF-8">
 		<link rel="icon" type="image/icon type" href="https://resources.download.minecraft.net/92/92750c5f93c312ba9ab413d546f32190c56d6f1f">
 		<style>
 		body {
@@ -15,20 +16,25 @@
 			padding: 0px 10px;
 		}
 
-		.entry {
+		.header, .entry {
 			display: table-row;
+		}
+
+		.header {
+			cursor: pointer;
 		}
 
 		a {
 			color: #005FD3;
 			text-decoration: none;
 		}
-		
+
 		#jsonlist {
 			display: block;
 		}
 
 		.wrapper {
+			overflow: scroll;
 			display: block;
 			color: #2c2c2c;
 			background-color: #f5f5f5;
@@ -36,57 +42,21 @@
 			border-radius: 4px;
 			padding: 8px 12px;
 		}
+
+		.sort::before {
+			content: "▲ ";
+			font-weight: bold;
+		}
+
+		.sort-reverse::before {
+			content: "▼ ";
+			font-weight: bold;
+		}
 		</style>
 	</head>
 	<body>
 		<div class="wrapper" id="jsonlist">
-			<div class="entry">
-				<b class="version">Version</b>
-				<b class="type">Type</b>
-				<b class="datetime">Release time</b>
-				<b class="datetime">Update time</b>
-				<b class="hash">SHA1 hash</b>
-			</div>
 		</div>
-		<script>
-		const versionsDiv = document.getElementById("jsonlist");
-		fetch('version_manifest_v2.json').then((response) => response.json()).then((json) => {
-			for (var i = 0; i < json.versions.length; i++) {
-				const version = json.versions[i];
-				const entry = document.createElement("div");
-				const ahref = document.createElement("a");
-				ahref.className = "version";
-				const span1 = document.createElement("span");
-				span1.className = "type";
-				const span2 = document.createElement("span");
-				span2.className = "datetime";
-				const span3 = document.createElement("span");
-				span3.className = "datetime";
-				const span4 = document.createElement("span");
-				span4.className = "hash";
-				const id = document.createTextNode(version.id + ".json");
-				const type = document.createTextNode(version.type);
-				const time = document.createTextNode(version.releaseTime);
-				const updateTime = document.createTextNode(version.time);
-				const sha1 = document.createTextNode(version.sha1);
-				ahref.href = version.url;
-				ahref.download = version.id + ".json";
-				ahref.appendChild(id);
-				span1.appendChild(type);
-				span2.appendChild(time);
-				span3.appendChild(updateTime);
-				span4.appendChild(sha1);
-				entry.appendChild(ahref);
-				entry.appendChild(span1);
-				entry.appendChild(span2);
-				entry.appendChild(span3);
-				entry.appendChild(span4);
-				entry.className = "entry";
-				versionsDiv.appendChild(entry);
-			}
-		}).catch((err) => {
-			versionsDiv.innerHTML = "<b>" + err.message + "</b>";
-		})
-		</script>
+		<script src="index.js"></script>
 	</body>
 </html>
