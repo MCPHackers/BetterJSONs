@@ -1,0 +1,2419 @@
+{"objects": {
+    "sounds/mob/horse/wood1.ogg": {
+        "size": 8190,
+        "hash": "711c8d8e7a1a67ace08c33a544aa3a1157ab97e2"
+    },
+    "sounds/mob/slime/small3.ogg": {
+        "size": 5314,
+        "hash": "3bc8225914b1be20db68fcdae202d5acee3234c2"
+    },
+    "sounds/mob/wolf/whine.ogg": {
+        "size": 7846,
+        "hash": "fcf4f90c452b7b511d50e3959ae05036d13a7cf8"
+    },
+    "sounds/mob/skeleton/say2.ogg": {
+        "size": 8485,
+        "hash": "529abcb09220f0ebeb595f32bb663d026a7e0ae5"
+    },
+    "sounds/tile/piston/out.ogg": {
+        "size": 6059,
+        "hash": "cb017131516de9359cb81fb991f5b3694044f8db"
+    },
+    "sounds/liquid/swim2.ogg": {
+        "size": 9540,
+        "hash": "827d71834e69954e0a7fd7748998332e0b619d29"
+    },
+    "sounds/mob/spider/step3.ogg": {
+        "size": 9237,
+        "hash": "efa5acfa08b210ba3087b535c40549c0ed8916f0"
+    },
+    "sounds/mob/cow/say1.ogg": {
+        "size": 9714,
+        "hash": "e07a2da49011ef4cf9d6b1c80a91a06f808c1243"
+    },
+    "sounds/mob/ghast/scream3.ogg": {
+        "size": 9399,
+        "hash": "8f23820fa28830dd031188c20acb35af044aedb5"
+    },
+    "sounds/mob/silverfish/say2.ogg": {
+        "size": 9782,
+        "hash": "396b8b46e593cf55d843853b704dc054ef614e55"
+    },
+    "sounds/random/successful_hit.ogg": {
+        "size": 7139,
+        "hash": "e9833a1512b57bcf88ac4fdcc8df4e5a7e9d701d"
+    },
+    "sounds/mob/horse/zombie/death.ogg": {
+        "size": 23103,
+        "hash": "aa914f7916d6f90042841cce5972b73043eb2101"
+    },
+    "sounds/step/stone4.ogg": {
+        "size": 7520,
+        "hash": "d5218034051a13322d7b5efc0b5a9af739615f04"
+    },
+    "sounds/mob/chicken/step2.ogg": {
+        "size": 3838,
+        "hash": "bf7fadaf64945f6b31c803d086ac6a652aabef9b"
+    },
+    "sounds/step/wood2.ogg": {
+        "size": 9150,
+        "hash": "1e82a43c30cf8fcbe05d0bc2760ecba5d2320314"
+    },
+    "sounds/mob/sheep/step2.ogg": {
+        "size": 4819,
+        "hash": "59034eb696e186d973dcea0b162f01e38f1b4f31"
+    },
+    "sounds/mob/horse/donkey/angry1.ogg": {
+        "size": 12515,
+        "hash": "a36f9c11ced9aa4364de7f26bb033e32adf9ad6f"
+    },
+    "sounds/mob/bat/idle1.ogg": {
+        "size": 5708,
+        "hash": "c3c175d70372d8448c070d0716a8d88beec8b8b7"
+    },
+    "sounds/mob/horse/zombie/hit4.ogg": {
+        "size": 8030,
+        "hash": "c093e925b560d3da4c9b1ef5679d1da2a5a8473b"
+    },
+    "sounds/mob/enderdragon/hit2.ogg": {
+        "size": 10880,
+        "hash": "46e5db05b1e91ce33c9c4c63260227fa629230f4"
+    },
+    "sounds/ambient/cave/cave5.ogg": {
+        "size": 67196,
+        "hash": "18a992d93128bb2e2861930cff3140c6940c0127"
+    },
+    "sounds/mob/endermen/scream2.ogg": {
+        "size": 11020,
+        "hash": "c8cd465468a0fd41a1d5cc24cb499862b5ade2cb"
+    },
+    "sounds/mob/bat/hurt1.ogg": {
+        "size": 4878,
+        "hash": "fddba78b2426f8056be081c98fe82e8411a0a5cf"
+    },
+    "sounds/mob/skeleton/step2.ogg": {
+        "size": 8333,
+        "hash": "4609ec723b4e724f44c653b82de40ec159d2eea1"
+    },
+    "sounds/mob/horse/hit1.ogg": {
+        "size": 6014,
+        "hash": "dc6b3831d315eedb3e97823c9ab1ae5092dcecbd"
+    },
+    "sounds/mob/zombiepig/zpig3.ogg": {
+        "size": 5916,
+        "hash": "c9f7fa36ae48eca0a1f6ce024fde5d3472d30b4d"
+    },
+    "sounds/music/nuance2.ogg": {
+        "size": 219029,
+        "hash": "78152dc42b036e0de7616e6e669ce5a81d17f82a"
+    },
+    "sounds/mob/horse/zombie/idle3.ogg": {
+        "size": 12120,
+        "hash": "9d034bf3ba36b297487b2380b908713982a83a3a"
+    },
+    "sounds/mob/enderdragon/end.ogg": {
+        "size": 257102,
+        "hash": "53cc1890ebea833d3964c7dd1c90676650e34404"
+    },
+    "sounds/mob/enderdragon/wings1.ogg": {
+        "size": 10617,
+        "hash": "5a368ed32b3357e31629451ace57eb30d90e8874"
+    },
+    "sounds/step/snow1.ogg": {
+        "size": 6532,
+        "hash": "e9bab7d3d15541f0aaa93fad31ad37fd07e03a6c"
+    },
+    "sounds/mob/blaze/breathe2.ogg": {
+        "size": 22547,
+        "hash": "c74368d2b978f570b4e7ce9645fd84b07f8f145c"
+    },
+    "sounds/mob/cat/purr1.ogg": {
+        "size": 27911,
+        "hash": "315512d6027033c2a279841badb40a26d74efc81"
+    },
+    "sounds/random/pop.ogg": {
+        "size": 4193,
+        "hash": "8f45b5faf6dfae2065846d26612f7552b73640dd"
+    },
+    "sounds/mob/chicken/say3.ogg": {
+        "size": 7080,
+        "hash": "49874e07369c3bb0bc8a2fba4f2096d2e9a36c9a"
+    },
+    "sounds/mob/wolf/bark2.ogg": {
+        "size": 5447,
+        "hash": "9f1708a6409d04370ec12d0add015b11abbd5371"
+    },
+    "lang/ka_GE.lang": {
+        "size": 104113,
+        "hash": "a4ed9509e3ba85eb639d3dbe3f544a8433c02b90",
+        "url": "https://resources.betacraft.uk/a4/a4ed9509e3ba85eb639d3dbe3f544a8433c02b90"
+    },
+    "sounds/mob/cow/hurt3.ogg": {
+        "size": 8934,
+        "hash": "2a031f10c7dc24e75d5dc3a374ebe7f36fc3e143"
+    },
+    "sounds/mob/bat/loop.ogg": {
+        "size": 16510,
+        "hash": "e260582909112ec3c255d1ec0375c7913df5f9f8"
+    },
+    "sounds/step/sand3.ogg": {
+        "size": 5144,
+        "hash": "ab07279288fa49215bada5c17627e6a54ad0437c"
+    },
+    "sounds/mob/enderdragon/growl4.ogg": {
+        "size": 25574,
+        "hash": "c84b0cf222e7dcbedde8eb9deb98835032f4d402"
+    },
+    "sounds/mob/zombie/woodbreak.ogg": {
+        "size": 10929,
+        "hash": "4e94ed53b6059d150c3bb2322b4af9ca9514bae1"
+    },
+    "sounds/mob/zombiepig/zpigangry2.ogg": {
+        "size": 5789,
+        "hash": "0349ce87fe856ddf8fdd94a559bb29061b002b6c"
+    },
+    "sounds/mob/horse/donkey/idle2.ogg": {
+        "size": 6299,
+        "hash": "6d7eeba0ba69cd68acf1e2ed5ae488c5aabbc9bf"
+    },
+    "sounds/mob/cow/step1.ogg": {
+        "size": 7411,
+        "hash": "fec7c7997f8eb6faaebd37f0eaed417118d3a498"
+    },
+    "sounds/mob/slime/attack1.ogg": {
+        "size": 7806,
+        "hash": "075e1ea92d5564d7bdf267ae975044315a41a686"
+    },
+    "lang/id_ID.lang": {
+        "size": 64623,
+        "hash": "3559a46106661f07a8ec8d8e7f78475a20482c98",
+        "url": "https://resources.betacraft.uk/35/3559a46106661f07a8ec8d8e7f78475a20482c98"
+    },
+    "sounds/mob/magmacube/jump2.ogg": {
+        "size": 12973,
+        "hash": "3285a993220dcea1fc37e98b9aa9219422c2c095"
+    },
+    "lang/es_ES.lang": {
+        "size": 68101,
+        "hash": "dc004ce0aa88aeb24a99f14c794d33e4c328782b",
+        "url": "https://resources.betacraft.uk/dc/dc004ce0aa88aeb24a99f14c794d33e4c328782b"
+    },
+    "sounds/mob/zombie/infect.ogg": {
+        "size": 20085,
+        "hash": "c18fb5eacf0fdb33c05eb806bc41332cccee43d8"
+    },
+    "sounds/dig/wood1.ogg": {
+        "size": 6541,
+        "hash": "9bc2a84d0aa98113fc52609976fae8fc88ea6333"
+    },
+    "sounds/mob/pig/say3.ogg": {
+        "size": 5602,
+        "hash": "58efedf302e0203a6ff9e59a6535d300286c5594"
+    },
+    "lang/pl_PL.lang": {
+        "size": 68164,
+        "hash": "3302e56ab916448857ac4153ee9da427795176e4",
+        "url": "https://resources.betacraft.uk/33/3302e56ab916448857ac4153ee9da427795176e4"
+    },
+    "sounds/mob/horse/skeleton/hit4.ogg": {
+        "size": 8143,
+        "hash": "68f186d1e9890fd4ede56106bfca198e904b57e4"
+    },
+    "sounds/random/chestclosed.ogg": {
+        "size": 7779,
+        "hash": "056393a33a9633685c3dc3be2887f5cbd7dbc63f"
+    },
+    "sounds/mob/wither/idle4.ogg": {
+        "size": 19355,
+        "hash": "e3f90fb5afaf84475dd31dca6f65378a455d17f7"
+    },
+    "sounds/mob/horse/skeleton/idle3.ogg": {
+        "size": 12129,
+        "hash": "083256ad8eede9ca7191b7667971070429d824cc"
+    },
+    "sounds/mob/magmacube/big1.ogg": {
+        "size": 10917,
+        "hash": "430c65ac81151d873a27d611a9dff6c562e38c4f"
+    },
+    "sounds/mob/horse/skeleton/death.ogg": {
+        "size": 19775,
+        "hash": "3b11e7b50263049d7b7c384c622c8fdf28cf12d8"
+    },
+    "sounds/mob/cat/hitt2.ogg": {
+        "size": 9180,
+        "hash": "ce499da6ec5dd226d50843890ca09f16018aff9a"
+    },
+    "sounds/mob/zombiepig/zpig4.ogg": {
+        "size": 7066,
+        "hash": "e1187646b6256b92a1384f26ef2a7e56efcbe00d"
+    },
+    "sounds/mob/zombie/step1.ogg": {
+        "size": 13871,
+        "hash": "9680c9dcd637ddea8e10a0d73705aa155d04a132"
+    },
+    "sounds/step/cloth3.ogg": {
+        "size": 4897,
+        "hash": "9c63f2a3681832dc32d206f6830360bfe94b5bfc"
+    },
+    "pack.mcmeta": {
+        "size": 8961,
+        "hash": "bc6b7a0756e63a57fcfb286d9b42dbdc0291e265",
+        "url": "https://resources.betacraft.uk/bc/bc6b7a0756e63a57fcfb286d9b42dbdc0291e265"
+    },
+    "sounds/mob/horse/breathe1.ogg": {
+        "size": 10190,
+        "hash": "a02c38569979cd6f4305f9e43a7a9fe26477d161"
+    },
+    "sounds/mob/horse/land.ogg": {
+        "size": 9513,
+        "hash": "4632633263997de468f35d0227b5d56c22c911bd"
+    },
+    "sounds/random/explode1.ogg": {
+        "size": 19732,
+        "hash": "cd46e41023887558b134547e28327de6e7df189a"
+    },
+    "sounds/mob/horse/donkey/death.ogg": {
+        "size": 13955,
+        "hash": "ece3a1417e0eca0a748aafaf6cd9f5e99c314991"
+    },
+    "sounds/random/classic_hurt.ogg": {
+        "size": 11499,
+        "hash": "9d485556b89bf776042080774679c37300bc744b"
+    },
+    "sounds/ambient/cave/cave11.ogg": {
+        "size": 36963,
+        "hash": "e367d1dfa1ce07374e0aeaecbfb1526142a0dcc1"
+    },
+    "sounds/dig/sand2.ogg": {
+        "size": 5553,
+        "hash": "0fa4234797f336ada4e3735e013e44d1099afe57"
+    },
+    "sounds/mob/creeper/say4.ogg": {
+        "size": 7111,
+        "hash": "85c860ea8c55984bf6cabb75354c78f3a603f98d"
+    },
+    "sounds/mob/horse/soft5.ogg": {
+        "size": 7127,
+        "hash": "76aa158461bacbcd138f88c0338f56525bfd55b9"
+    },
+    "sounds/mob/wolf/step5.ogg": {
+        "size": 5143,
+        "hash": "3610feb2a1a575026cfa3ab44965d114e74ea583"
+    },
+    "sounds/records/11.ogg": {
+        "size": 591997,
+        "hash": "f86c466225dad2f32c90981485c1965671b3e8e6"
+    },
+    "lang/es_AR.lang": {
+        "size": 66650,
+        "hash": "4a684a5d7431a7ae3ceeef556f77760643098b11",
+        "url": "https://resources.betacraft.uk/4a/4a684a5d7431a7ae3ceeef556f77760643098b11"
+    },
+    "lang/hr_HR.lang": {
+        "size": 65424,
+        "hash": "7e8b67369c338df837fd5a45c257751764f3ef8e",
+        "url": "https://resources.betacraft.uk/7e/7e8b67369c338df837fd5a45c257751764f3ef8e"
+    },
+    "lang/sv_SE.lang": {
+        "size": 64042,
+        "hash": "37a053ce846bcf3be2a3f7c3c6329d8fe5c6aa4b",
+        "url": "https://resources.betacraft.uk/37/37a053ce846bcf3be2a3f7c3c6329d8fe5c6aa4b"
+    },
+    "sounds/fireworks/launch1.ogg": {
+        "size": 15598,
+        "hash": "b1715242916d56140486c612056ea4d6dd5a4404"
+    },
+    "sounds/mob/skeleton/hurt3.ogg": {
+        "size": 8572,
+        "hash": "acffab0bafe2c82ffc8723880aab5ec1682d4329"
+    },
+    "lang/sk_SK.lang": {
+        "size": 67276,
+        "hash": "566405dc00ad41a996b5a089f657819b20ddbfc2",
+        "url": "https://resources.betacraft.uk/56/566405dc00ad41a996b5a089f657819b20ddbfc2"
+    },
+    "sounds/mob/ghast/scream4.ogg": {
+        "size": 12220,
+        "hash": "edbc9e9cb9dfeabef93207fc0bdee6ceee5df7bc"
+    },
+    "sounds/mob/endermen/stare.ogg": {
+        "size": 127738,
+        "hash": "5738d7f49ef30adcfc4f2ab13e0b1d74f09a1289"
+    },
+    "sounds/mob/endermen/portal2.ogg": {
+        "size": 7442,
+        "hash": "35461b6a4253db40973549e82d91f267c686be85"
+    },
+    "sounds/mob/horse/donkey/angry2.ogg": {
+        "size": 11133,
+        "hash": "44380f86e13a06b1f0c6feec2d6644b67e6c4d9c"
+    },
+    "sounds/mob/ghast/moan4.ogg": {
+        "size": 9393,
+        "hash": "935f1a575322bd0ec53a919fd061321216889104"
+    },
+    "sounds/music/hal4.ogg": {
+        "size": 2558252,
+        "hash": "5e7d63e75c6e042f452bc5e151276911ef92fed8"
+    },
+    "sounds/mob/skeleton/say1.ogg": {
+        "size": 8727,
+        "hash": "199c9f150822950385b9bc1d840605a6a795bd27"
+    },
+    "sounds/ambient/weather/rain4.ogg": {
+        "size": 13955,
+        "hash": "08e555782cb2785b24e08a417a5e58aa08bd0695"
+    },
+    "sounds/ambient/cave/cave4.ogg": {
+        "size": 49499,
+        "hash": "48540d7788ce3d9e780cb448ce5676c53dbcfd23"
+    },
+    "sounds/liquid/splash2.ogg": {
+        "size": 36747,
+        "hash": "857abbbfb58186c2f1b5510a4072630950e518f6"
+    },
+    "sounds/mob/endermen/scream3.ogg": {
+        "size": 9843,
+        "hash": "dbab0094299eacbce86ad427edcb34b8342861af"
+    },
+    "sounds/mob/silverfish/say1.ogg": {
+        "size": 6584,
+        "hash": "515dffc5d6dd216550d69e61b2eb9c3593b19a20"
+    },
+    "sounds/music/nuance1.ogg": {
+        "size": 156322,
+        "hash": "cc1a80b6becfc6d6489c069f053d0a8adc71c339"
+    },
+    "sounds/step/cloth4.ogg": {
+        "size": 4844,
+        "hash": "55da1856e77cfd31a7e8c3d358e1f856c5583198"
+    },
+    "sounds/mob/ghast/moan6.ogg": {
+        "size": 18305,
+        "hash": "b3f91f243eceaa25cff7488ec2dac732e22cfec3"
+    },
+    "sounds/mob/spider/step2.ogg": {
+        "size": 9695,
+        "hash": "a8eb0b1ce4abb53334ab75be82dc465135c4a27a"
+    },
+    "lang/es_UY.lang": {
+        "size": 67484,
+        "hash": "13638a795ade973dded89f84a3e9059ca7fccf60",
+        "url": "https://resources.betacraft.uk/13/13638a795ade973dded89f84a3e9059ca7fccf60"
+    },
+    "sounds/liquid/lavapop.ogg": {
+        "size": 5609,
+        "hash": "19a5aae31c3e0018a960b709a9f0240d8d47dda7"
+    },
+    "sounds/mob/zombie/death.ogg": {
+        "size": 9836,
+        "hash": "6e0488ab07b9539fbaebc093f194bb6a95b2caec"
+    },
+    "sounds/records/stal.ogg": {
+        "size": 1180789,
+        "hash": "2c4f3f8f259dc782867727311fea30875ecc3917"
+    },
+    "lang/vi_VN.lang": {
+        "size": 74935,
+        "hash": "42f880cdb07a255ac747fde4378f446d64fc43d7",
+        "url": "https://resources.betacraft.uk/42/42f880cdb07a255ac747fde4378f446d64fc43d7"
+    },
+    "sounds/liquid/swim3.ogg": {
+        "size": 9868,
+        "hash": "b5f9075a8bf6977e7dfd3d316a673eaaa5834a99"
+    },
+    "lang/da_DK.lang": {
+        "size": 63978,
+        "hash": "5cf2482d1dc5b7fd341a7a20e38ffdd01334a82e",
+        "url": "https://resources.betacraft.uk/5c/5cf2482d1dc5b7fd341a7a20e38ffdd01334a82e"
+    },
+    "sounds/dig/wood2.ogg": {
+        "size": 6294,
+        "hash": "98102533e6085617a2962157b4f3658f59aea018"
+    },
+    "sounds/mob/blaze/breathe3.ogg": {
+        "size": 21883,
+        "hash": "24d643885f9b83d8f034f49e2c5e00e70d4f175a"
+    },
+    "sounds/mob/cat/purr2.ogg": {
+        "size": 28974,
+        "hash": "847ec719ee91e28d7bf58ab39a5d8d6bd5728314"
+    },
+    "sounds/mob/sheep/step1.ogg": {
+        "size": 4838,
+        "hash": "5288cab96e26207edd31307c9c01b6902306e4f6"
+    },
+    "sounds/mob/cow/hurt2.ogg": {
+        "size": 8430,
+        "hash": "758d2a1c36abc84d2744d697b76d5414ea96d9f3"
+    },
+    "sounds/mob/ghast/fireball4.ogg": {
+        "size": 8535,
+        "hash": "eafa60d7ec34f86e8f07a001ddcdf5c4600bb174"
+    },
+    "sounds/mob/magmacube/small5.ogg": {
+        "size": 4826,
+        "hash": "560dd97e6da8badbc8ac00b28c45312e60a525f2"
+    },
+    "sounds/step/sand4.ogg": {
+        "size": 5321,
+        "hash": "a474236fb0c75bd65a6010e87dbc000d345fc185"
+    },
+    "sounds/mob/zombiepig/zpigangry1.ogg": {
+        "size": 8946,
+        "hash": "cadbc5c34979baab1a93f5cf68a50f9bd44ef5a8"
+    },
+    "lang/kw_GB.lang": {
+        "size": 64778,
+        "hash": "1e0dec05c2be249facd9591389e95c13f9ef102f",
+        "url": "https://resources.betacraft.uk/1e/1e0dec05c2be249facd9591389e95c13f9ef102f"
+    },
+    "sounds/mob/horse/donkey/idle3.ogg": {
+        "size": 11079,
+        "hash": "be565339d494ce6ff788480a462bce0ec69c8ded"
+    },
+    "lang/nn_NO.lang": {
+        "size": 63127,
+        "hash": "9f4db58299f42b74df8b9cc720e5d35fba56ec26",
+        "url": "https://resources.betacraft.uk/9f/9f4db58299f42b74df8b9cc720e5d35fba56ec26"
+    },
+    "sounds/mob/enderdragon/growl3.ogg": {
+        "size": 27102,
+        "hash": "ba35053358ede7c3bf33a4c344d66680f09008c9"
+    },
+    "sounds/mob/magmacube/big2.ogg": {
+        "size": 7931,
+        "hash": "4c4bcc6905430286f32a862ce69665c51bd9938f"
+    },
+    "sounds/note/hat.ogg": {
+        "size": 3880,
+        "hash": "fd2b6f745b05a2cf44a4e010f72631de2e5099f6"
+    },
+    "sounds/mob/enderdragon/wings2.ogg": {
+        "size": 10481,
+        "hash": "7d5b3b403a11b6dd4c3801c4f4c8bf7ce9a8c771"
+    },
+    "sounds/mob/slime/big1.ogg": {
+        "size": 10917,
+        "hash": "b5eca1979e69271b2065ac67ba2c37b5afac0f98"
+    },
+    "sounds/mob/slime/small2.ogg": {
+        "size": 5518,
+        "hash": "5e2ef521293719bbe22bbb515bbcacf4c233a075"
+    },
+    "sounds/random/bowhit3.ogg": {
+        "size": 13252,
+        "hash": "0369a1236a4b9ca219fd3ad7d19d0b5237510b1e"
+    },
+    "sounds/liquid/water.ogg": {
+        "size": 36329,
+        "hash": "3483650440deb3934255e044ddabff5b01a65356"
+    },
+    "sounds/dig/cloth1.ogg": {
+        "size": 4832,
+        "hash": "5fd568d724ba7d53911b6cccf5636f859d2662e8"
+    },
+    "sounds/portal/trigger.ogg": {
+        "size": 24992,
+        "hash": "301f32642b654addbd06a430768fead464fd24c4"
+    },
+    "sounds/mob/villager/haggle3.ogg": {
+        "size": 6891,
+        "hash": "4e477f55b9c4875f69cb44a2aabab4b14aefd129"
+    },
+    "lang/qya_AA.lang": {
+        "size": 63137,
+        "hash": "34a4796dd852ec46523cfbbcdd708dcd8a851526",
+        "url": "https://resources.betacraft.uk/34/34a4796dd852ec46523cfbbcdd708dcd8a851526"
+    },
+    "sounds/mob/chicken/say2.ogg": {
+        "size": 9476,
+        "hash": "3660e743db2bbbcff0866d3f1e606882f1aeb6ac"
+    },
+    "sounds/mob/cow/step2.ogg": {
+        "size": 7885,
+        "hash": "555d33de143e6dcef2aa80ebf9a8f8b1481d42d0"
+    },
+    "lang/fil_PH.lang": {
+        "size": 63017,
+        "hash": "8f6d86fb1c871340f5672272f8dbe3e1986a4a39",
+        "url": "https://resources.betacraft.uk/8f/8f6d86fb1c871340f5672272f8dbe3e1986a4a39"
+    },
+    "lang/lt_LT.lang": {
+        "size": 68967,
+        "hash": "69a2ed14b4018a5d5f92f668c8d4fdfe5b93ef15",
+        "url": "https://resources.betacraft.uk/69/69a2ed14b4018a5d5f92f668c8d4fdfe5b93ef15"
+    },
+    "sounds/random/drink.ogg": {
+        "size": 7734,
+        "hash": "857b75738992d25e338dee640ab191323bcbf798"
+    },
+    "sounds/random/bowhit4.ogg": {
+        "size": 15430,
+        "hash": "9e5e2369fc354a082c861494cfe8767d327813d4"
+    },
+    "sounds/mob/horse/skeleton/idle2.ogg": {
+        "size": 9173,
+        "hash": "cd683396ccd955bfd218020dbb1892808def402e"
+    },
+    "lang/ms_MY.lang": {
+        "size": 66798,
+        "hash": "5ff96ebdb94df1cab3d9b12292b6aba87f2ac937",
+        "url": "https://resources.betacraft.uk/5f/5ff96ebdb94df1cab3d9b12292b6aba87f2ac937"
+    },
+    "sounds/mob/horse/soft4.ogg": {
+        "size": 7224,
+        "hash": "6efbe479d74614c5f824fa5aafa295ae936b3f9f"
+    },
+    "sounds/mob/horse/breathe2.ogg": {
+        "size": 9545,
+        "hash": "7bbbd6126bd37b4f2ec059d2784f95310bd55b75"
+    },
+    "sounds/damage/hit1.ogg": {
+        "size": 6539,
+        "hash": "8760ebb9d4b1fe9457ef272324ecd6b4329a593e"
+    },
+    "sounds/ambient/cave/cave10.ogg": {
+        "size": 22725,
+        "hash": "79a5b53bf22cca182ddff2a670942c49867663ec"
+    },
+    "sounds/mob/wolf/step4.ogg": {
+        "size": 4869,
+        "hash": "d7d5be6092d00c2f7f68bdcbf10ea3ac3cfea30c"
+    },
+    "sounds/mob/bat/idle2.ogg": {
+        "size": 4767,
+        "hash": "e9d023a54a6b514af496c8f253f5f3fa948fd4b6"
+    },
+    "sounds/step/gravel1.ogg": {
+        "size": 7757,
+        "hash": "1d761cb3bcb45498719e4fba0751e1630e134f1a"
+    },
+    "sounds/mob/wither/idle3.ogg": {
+        "size": 19307,
+        "hash": "79afbeabcdbb063cfa00d544dc00beac8543a581"
+    },
+    "sounds/dig/sand3.ogg": {
+        "size": 5552,
+        "hash": "c75589cc0087069f387de127dd1499580498738e"
+    },
+    "sounds/mob/creeper/say3.ogg": {
+        "size": 6787,
+        "hash": "0979bf115d081d70a985f1cfcab1b9274d6be74e"
+    },
+    "sounds/mob/cat/hitt1.ogg": {
+        "size": 7595,
+        "hash": "28409652d939d2489d8b5317d51abb873821f0f4"
+    },
+    "sounds/mob/skeleton/hurt4.ogg": {
+        "size": 7848,
+        "hash": "a88e0436e38512171a3ef819249c3d1a2650540f"
+    },
+    "sounds/mob/horse/wood2.ogg": {
+        "size": 7988,
+        "hash": "61112837c4cd7174fc0cf1ebc569275c45b089ca"
+    },
+    "sounds/mob/ghast/moan5.ogg": {
+        "size": 14107,
+        "hash": "48fc6c25d0f1c1f0edd4eaca2b6f934d4117f440"
+    },
+    "sounds/mob/magmacube/jump3.ogg": {
+        "size": 12258,
+        "hash": "5a2449cc3d4a6ad36598847e501f956e5a3528bd"
+    },
+    "sounds/dig/sand1.ogg": {
+        "size": 5543,
+        "hash": "9e59c3650c6c3fc0a475f1b753b2fcfef430bf81"
+    },
+    "sounds/minecart/base.ogg": {
+        "size": 15354,
+        "hash": "28f9973fcd8366ac9837dbe190b129a8fce15857"
+    },
+    "sounds/mob/zombie/hurt2.ogg": {
+        "size": 11005,
+        "hash": "bc85d96a99e84a234cbe23841f87e84e71198be3"
+    },
+    "sounds/mob/spider/say3.ogg": {
+        "size": 7709,
+        "hash": "f9f79162efa6667b753c1fbb46ff9888e8ce5f32"
+    },
+    "sounds/mob/villager/yes2.ogg": {
+        "size": 11025,
+        "hash": "32317250b0c0ee18ed1e0c4ae3364fa796433b0a"
+    },
+    "sounds/random/eat3.ogg": {
+        "size": 5813,
+        "hash": "9f2c4bab5ed55f1714fffa223985c81babc8f6c0"
+    },
+    "sounds/ambient/cave/cave12.ogg": {
+        "size": 21193,
+        "hash": "a720e85e35be0dc3186d01cc599121b87e7ee9f7"
+    },
+    "lang/pt_PT.lang": {
+        "size": 67954,
+        "hash": "5b63e5b1eee8cd78c238610db9e21a014657be1b",
+        "url": "https://resources.betacraft.uk/5b/5b63e5b1eee8cd78c238610db9e21a014657be1b"
+    },
+    "sounds/mob/blaze/hit3.ogg": {
+        "size": 7229,
+        "hash": "97e09d51c82b78ab82fb3a4dbbb8cd701b2d0aeb"
+    },
+    "sounds/dig/grass1.ogg": {
+        "size": 7468,
+        "hash": "41cbf5dd08e951ad65883854e74d2e034929f572"
+    },
+    "sounds/mob/cow/hurt1.ogg": {
+        "size": 7302,
+        "hash": "989c3b614f736aa77bb2800821ea56936e98ca68"
+    },
+    "sounds/records/13.ogg": {
+        "size": 1071028,
+        "hash": "9cbed0e40296f68c61090c9b81816061e068a0ec"
+    },
+    "lang/ru_RU.lang": {
+        "size": 87168,
+        "hash": "c055eb37b50dcd085ded4fc72e20f17e8b45525d",
+        "url": "https://resources.betacraft.uk/c0/c055eb37b50dcd085ded4fc72e20f17e8b45525d"
+    },
+    "sounds/mob/blaze/breathe4.ogg": {
+        "size": 22054,
+        "hash": "78d544a240d627005aaef6033fd646eafc66fe7a"
+    },
+    "sounds/music/hal3.ogg": {
+        "size": 1923269,
+        "hash": "dd85fb564e96ee2dbd4754f711ae9deb08a169f9"
+    },
+    "lang/en_AU.lang": {
+        "size": 63190,
+        "hash": "aba377499d7dffee68ffbbc114d0305b269ec787",
+        "url": "https://resources.betacraft.uk/ab/aba377499d7dffee68ffbbc114d0305b269ec787"
+    },
+    "sounds/mob/silverfish/step2.ogg": {
+        "size": 9498,
+        "hash": "f1665747da14569c4de55e07884deeef18a40f62"
+    },
+    "sounds/mob/villager/no2.ogg": {
+        "size": 7051,
+        "hash": "f224168e178eca861af133c78209b662c4d1e452"
+    },
+    "sounds/random/explode2.ogg": {
+        "size": 25246,
+        "hash": "a116e396d95a0ee245000dd4cdcc333d38ea9e3b"
+    },
+    "sounds/mob/ghast/moan7.ogg": {
+        "size": 9222,
+        "hash": "cfb956ba9d26cbdacd16ef77d58764df783b2c7f"
+    },
+    "sounds/mob/spider/step1.ogg": {
+        "size": 8826,
+        "hash": "8f7ff84e460ca507f654168f1d24e82637517940"
+    },
+    "sounds/random/bowhit2.ogg": {
+        "size": 10640,
+        "hash": "c3cd0db760c980287b26ef9c0894f66c4250724e"
+    },
+    "sounds/step/sand5.ogg": {
+        "size": 5182,
+        "hash": "9fd6d2c633d276b952f2ff2aaa1fa7e5fb5efd2a"
+    },
+    "sounds/mob/horse/gallop2.ogg": {
+        "size": 8360,
+        "hash": "2433e0f1cfd53dab77422aca9f60f3d9a86d9991"
+    },
+    "sounds/mob/zombiepig/zpighurt1.ogg": {
+        "size": 6935,
+        "hash": "a2cfbea288280419ec0c8fb75d8ee5395536ac02"
+    },
+    "sounds/music/piano1.ogg": {
+        "size": 542805,
+        "hash": "0f374764aafba398f4ba90dba05a53a9e6166138"
+    },
+    "sounds/mob/silverfish/say4.ogg": {
+        "size": 6394,
+        "hash": "4fce41a2d0890418ae1efb03d1142ca74d00aa61"
+    },
+    "sounds/mob/cat/meow2.ogg": {
+        "size": 9349,
+        "hash": "9853be18df1a5b2642e33ba05e71bfd5099f9f04"
+    },
+    "sounds/mob/wither/death.ogg": {
+        "size": 62674,
+        "hash": "ae27c6817985a9acb0a0fdefab89ff5d82dbe009"
+    },
+    "lang/hu_HU.lang": {
+        "size": 67359,
+        "hash": "fcb0688ffbb1ec5d8e207f565f8496365594bd15",
+        "url": "https://resources.betacraft.uk/fc/fcb0688ffbb1ec5d8e207f565f8496365594bd15"
+    },
+    "sounds/mob/horse/skeleton/hit2.ogg": {
+        "size": 7232,
+        "hash": "721dffeec54cec90bb07986342532f327185886f"
+    },
+    "sounds/records/strad.ogg": {
+        "size": 1558180,
+        "hash": "f34afa3ba5f756e90a1f61023bbe069ee8442608"
+    },
+    "sounds/mob/ghast/scream5.ogg": {
+        "size": 11650,
+        "hash": "77a7b79d4f2ada27640866ece1020b631f5bdc54"
+    },
+    "sounds/mob/villager/idle2.ogg": {
+        "size": 10948,
+        "hash": "5df4a02b1ebc550514841fddb7d64b9c497d40b4"
+    },
+    "sounds/mob/horse/donkey/hit2.ogg": {
+        "size": 5948,
+        "hash": "dd1846c866f5ef87e056a3f14ac156959b637726"
+    },
+    "sounds/mob/magmacube/small4.ogg": {
+        "size": 5387,
+        "hash": "a485082ed0820eeeb9df13f84f26b14744ceeb2a"
+    },
+    "sounds/mob/magmacube/big3.ogg": {
+        "size": 9436,
+        "hash": "d5c4316d30feef5213077e3ee24a7f52c5bf6735"
+    },
+    "sounds/ambient/cave/cave3.ogg": {
+        "size": 50958,
+        "hash": "d4b06ccb8e331ece734f51d84a0a5fbc7164d8be"
+    },
+    "sounds/mob/creeper/death.ogg": {
+        "size": 13005,
+        "hash": "fbc1b2c89c5c781e30d702b2885be3f485105869"
+    },
+    "sounds/mob/horse/wood6.ogg": {
+        "size": 8074,
+        "hash": "f4ed4c71699d853437c14fb9b3d236b78108bb53"
+    },
+    "sounds/ambient/weather/rain3.ogg": {
+        "size": 13322,
+        "hash": "4cdd8fc380e85409fd94b93abdcad077d75ec58f"
+    },
+    "sounds/mob/irongolem/walk2.ogg": {
+        "size": 6945,
+        "hash": "356fdb6192cf96aa5d5d9c76413f412f6a4d66a4"
+    },
+    "sounds/mob/wolf/panting.ogg": {
+        "size": 7380,
+        "hash": "c2e4001d9ae8fc1f066a914170faad4c45a84e1e"
+    },
+    "sounds/mob/chicken/hurt2.ogg": {
+        "size": 6177,
+        "hash": "18752157f5d8718e2752805a657c74a73d2b88db"
+    },
+    "sounds/mob/pig/step2.ogg": {
+        "size": 4508,
+        "hash": "a69a66bfda52a42ea8cf712eb1caa8830046c14f"
+    },
+    "sounds/random/anvil_land.ogg": {
+        "size": 9210,
+        "hash": "934b16e82b94d5790175615303594f0ec28da4a0"
+    },
+    "sounds/mob/horse/zombie/idle1.ogg": {
+        "size": 13283,
+        "hash": "ef1fea92382e98356a8c39e3c99b91d72d55f342"
+    },
+    "icons/icon_16x16.png": {
+        "size": 3665,
+        "hash": "bdf48ef6b5d0d23bbb02e17d04865216179f510a"
+    },
+    "sounds/mob/villager/haggle2.ogg": {
+        "size": 6911,
+        "hash": "d14112bd7351ef48f193aa27b4517d4b0960f7b1"
+    },
+    "sounds/mob/zombie/step3.ogg": {
+        "size": 11734,
+        "hash": "33acf13c25f65a432348e9476eda67d6a34831e3"
+    },
+    "lang/gl_ES.lang": {
+        "size": 66581,
+        "hash": "29cdc4e1853429eef9eed31da963a6d25c1e0ecd",
+        "url": "https://resources.betacraft.uk/29/29cdc4e1853429eef9eed31da963a6d25c1e0ecd"
+    },
+    "sounds/mob/irongolem/hit1.ogg": {
+        "size": 9479,
+        "hash": "942937fcad0fefd61e019678e3710f3f077757d4"
+    },
+    "sounds/dig/stone2.ogg": {
+        "size": 6728,
+        "hash": "9c92f697142ae320584bf64c0d54381d59703528"
+    },
+    "sounds/mob/chicken/say1.ogg": {
+        "size": 7956,
+        "hash": "74e5422bd83bb2041a6f0d09644bc095c0e9e21a"
+    },
+    "lang/ga_IE.lang": {
+        "size": 68446,
+        "hash": "1c165ea34c4a51648216c6ef40b2cca721bfe5f5",
+        "url": "https://resources.betacraft.uk/1c/1c165ea34c4a51648216c6ef40b2cca721bfe5f5"
+    },
+    "lang/fr_CA.lang": {
+        "size": 70473,
+        "hash": "08d955219146b0882914fa076e39d1403bd81e11",
+        "url": "https://resources.betacraft.uk/08/08d955219146b0882914fa076e39d1403bd81e11"
+    },
+    "sounds/mob/zombiepig/zpigangry4.ogg": {
+        "size": 9925,
+        "hash": "c76dea473821e2ae9a1f006a4eddfdd0703eecdf"
+    },
+    "sounds/mob/cat/meow1.ogg": {
+        "size": 9820,
+        "hash": "5fdf1bd80b204245af760042d2e546d87666e288"
+    },
+    "sounds/portal/portal.ogg": {
+        "size": 25153,
+        "hash": "9a20be18fed05330f745a54eb8aeba11aac5403b"
+    },
+    "sounds/mob/magmacube/jump4.ogg": {
+        "size": 12902,
+        "hash": "500e2543034b4c026fb175d48c47196c5d013fe8"
+    },
+    "sounds/records/far.ogg": {
+        "size": 1285938,
+        "hash": "f46c38e7d6d7b19d5d68aa18b557215738deb36a"
+    },
+    "sounds/mob/enderdragon/hit3.ogg": {
+        "size": 11158,
+        "hash": "e96237fdf5e5e1aca09496b9192243651525d0ac"
+    },
+    "sounds/random/fuse.ogg": {
+        "size": 29271,
+        "hash": "a92ba2b8f6abc41aa8d679ad808a81d0aafa04b2"
+    },
+    "sounds/mob/horse/wood3.ogg": {
+        "size": 6995,
+        "hash": "50733b9cb1042acc3bc38182d7ccaa65e538bb57"
+    },
+    "lang/bg_BG.lang": {
+        "size": 87497,
+        "hash": "ce2bef718b5779fea2231244e550cc8aa6d9e45c",
+        "url": "https://resources.betacraft.uk/ce/ce2bef718b5779fea2231244e550cc8aa6d9e45c"
+    },
+    "sounds/mob/wolf/growl1.ogg": {
+        "size": 12761,
+        "hash": "0b29f5ce8c4c10fa4184e5d29244f3bc121468a0"
+    },
+    "lang/el_GR.lang": {
+        "size": 94504,
+        "hash": "d38993eebb0fdf3a1a1caa45f20f45d52c5cef90",
+        "url": "https://resources.betacraft.uk/d3/d38993eebb0fdf3a1a1caa45f20f45d52c5cef90"
+    },
+    "sounds/mob/ghast/death.ogg": {
+        "size": 26853,
+        "hash": "725e5179c72444c6d885e39c27e6b31ed83d58bc"
+    },
+    "sounds/random/door_close.ogg": {
+        "size": 6510,
+        "hash": "9ea8a9e105321891bda18b9007b383b40aa7c076"
+    },
+    "sounds/mob/zombie/wood1.ogg": {
+        "size": 7761,
+        "hash": "fa73977dd28020544f7fe2553e5604a6865ec1a6"
+    },
+    "sounds/mob/wolf/howl2.ogg": {
+        "size": 18136,
+        "hash": "cdb0293c5e2bdbda21798af4e61a4c171c8b1ec0"
+    },
+    "sounds/dig/gravel4.ogg": {
+        "size": 6728,
+        "hash": "7bf3553a4fe41a0078f4988a13d6e1ed8663ef4c"
+    },
+    "sounds/random/bow.ogg": {
+        "size": 6658,
+        "hash": "87edc11141fb5a045f2ed830b545aaa73f96ee99"
+    },
+    "sounds/mob/villager/hit4.ogg": {
+        "size": 5160,
+        "hash": "1882f71dee4f377dde08a517adc5f3c585d2d526"
+    },
+    "sounds/mob/horse/soft1.ogg": {
+        "size": 6417,
+        "hash": "a9a83e3f186b3af56a9844b8d4976c6251ba17eb"
+    },
+    "sounds/mob/magmacube/small3.ogg": {
+        "size": 5314,
+        "hash": "65a1a69845133187d6b8689e6ce9707da10f21a6"
+    },
+    "sounds/mob/enderdragon/hit1.ogg": {
+        "size": 11056,
+        "hash": "aedeb53dd3315f964ff4d10d0003e4c5f41d1bb0"
+    },
+    "sounds/mob/silverfish/step3.ogg": {
+        "size": 9308,
+        "hash": "47ad81223bcec870206484cd4d1a6202871df331"
+    },
+    "sounds/random/breath.ogg": {
+        "size": 14331,
+        "hash": "dd2f7209c2a58b0886beb34d49b0512b49adbb7e"
+    },
+    "lang/sr_SP.lang": {
+        "size": 83674,
+        "hash": "950c4167ef88d2847c4a11f525135de6bf82fa61",
+        "url": "https://resources.betacraft.uk/95/950c4167ef88d2847c4a11f525135de6bf82fa61"
+    },
+    "sounds/ambient/cave/cave13.ogg": {
+        "size": 29512,
+        "hash": "63bbe3921abd75b9f6cd1e20330360d164da169b"
+    },
+    "sounds/records/wait.ogg": {
+        "size": 1845255,
+        "hash": "876655d1691803f4cef17a6288d971285be79c6a"
+    },
+    "sounds/mob/villager/no1.ogg": {
+        "size": 7715,
+        "hash": "255f7e21123c3647bd80c973e6a73d7854b2a1be"
+    },
+    "sounds/mob/cow/say2.ogg": {
+        "size": 13553,
+        "hash": "228bab6d9b09994dc407b9d022bebca791d81c16"
+    },
+    "sounds/mob/villager/yes1.ogg": {
+        "size": 9191,
+        "hash": "be73a79fb1ab966887a8b88bed9aa6b3d9173d71"
+    },
+    "lang/en_PT.lang": {
+        "size": 66819,
+        "hash": "dfc48611ff0ccdd3386d8c0e2a687986c93246be",
+        "url": "https://resources.betacraft.uk/df/dfc48611ff0ccdd3386d8c0e2a687986c93246be"
+    },
+    "sounds/liquid/splash.ogg": {
+        "size": 16702,
+        "hash": "4c14c40542e249c902d0cac710ab4c6d6debba28"
+    },
+    "sounds/random/bowhit1.ogg": {
+        "size": 11106,
+        "hash": "78f034d58779fb4d22b00ea249015a0dbf4e7b3f"
+    },
+    "sounds/mob/slime/small4.ogg": {
+        "size": 5387,
+        "hash": "4dfe0b607c5de2e47f3b7950c56bbebbf3115957"
+    },
+    "lang/lv_LV.lang": {
+        "size": 66917,
+        "hash": "8bb31211f20ae14649fc1d6f8701d1d48b1e8fb5",
+        "url": "https://resources.betacraft.uk/8b/8bb31211f20ae14649fc1d6f8701d1d48b1e8fb5"
+    },
+    "sounds/mob/horse/idle3.ogg": {
+        "size": 11142,
+        "hash": "65bd63eb0e8056707f7f16f1a272187d3d32de15"
+    },
+    "sounds/mob/blaze/hit4.ogg": {
+        "size": 7383,
+        "hash": "3f447f3e331b59ad014d9bd4a6536f98cf3a08c3"
+    },
+    "sounds/step/ladder1.ogg": {
+        "size": 6021,
+        "hash": "d6212a1d5feb88d76b9a83ce5a27ab4e6d4c20bb"
+    },
+    "sounds/music/hal2.ogg": {
+        "size": 1754429,
+        "hash": "ceaaaa1d57dfdfbb0bd4da5ea39628b42897a687"
+    },
+    "sounds/mob/horse/skeleton/hit3.ogg": {
+        "size": 8687,
+        "hash": "df488adcf98b65d30473865945cb5ea1ee30108c"
+    },
+    "sounds/mob/wither/shoot.ogg": {
+        "size": 11481,
+        "hash": "78ee5b46b6615191b7a16d259fcbda273762297e"
+    },
+    "sounds/mob/villager/haggle1.ogg": {
+        "size": 7104,
+        "hash": "57aead4d024109b4ed37dcf4c73ae44ed06f04a8"
+    },
+    "sounds/mob/villager/idle3.ogg": {
+        "size": 7106,
+        "hash": "9a7fe638bb8b3b1060b3830c63c3ce3d03cdbe1f"
+    },
+    "sounds/mob/irongolem/walk1.ogg": {
+        "size": 7064,
+        "hash": "4e3e9f37c1e0c12c2993d25c28b89e2f0797ba5a"
+    },
+    "sounds/mob/cat/hitt3.ogg": {
+        "size": 7371,
+        "hash": "3d98b4b7c37a09101da00d8a3078e0acba6558f4"
+    },
+    "sounds/records/ward.ogg": {
+        "size": 1987588,
+        "hash": "f685021d4f26d6b590bffb341908e25e92e18cef"
+    },
+    "sounds/tile/piston/in.ogg": {
+        "size": 5900,
+        "hash": "594be3eaea9a2b92095eeeb3b1e01e755dcb8ce2"
+    },
+    "sounds/mob/bat/hurt2.ogg": {
+        "size": 5530,
+        "hash": "573e565b7fda2c34fc972edd21a82fd2e09200f8"
+    },
+    "sounds/ambient/weather/rain2.ogg": {
+        "size": 13301,
+        "hash": "ba58e1b6c8cc814a210db268d3e59a06b7ac62be"
+    },
+    "sounds/ambient/cave/cave2.ogg": {
+        "size": 48741,
+        "hash": "5680749048457f5772ec95a73d856ad792fa1717"
+    },
+    "sounds/step/snow2.ogg": {
+        "size": 6567,
+        "hash": "5887d10234c4f244ec5468080412f3e6ef9522f3"
+    },
+    "sounds/mob/spider/say4.ogg": {
+        "size": 6343,
+        "hash": "3cf3e8d3aab0a3092f6c6bf681ff156bc9653859"
+    },
+    "lang/it_IT.lang": {
+        "size": 68669,
+        "hash": "a3d56ba693fd5994de4987f751ca09b9e8551eef",
+        "url": "https://resources.betacraft.uk/a3/a3d56ba693fd5994de4987f751ca09b9e8551eef"
+    },
+    "lang/eo_UY.lang": {
+        "size": 64656,
+        "hash": "32b549d3b4fa9920014d4caf018acde7334fde96",
+        "url": "https://resources.betacraft.uk/32/32b549d3b4fa9920014d4caf018acde7334fde96"
+    },
+    "sounds/mob/cat/meow3.ogg": {
+        "size": 9526,
+        "hash": "381f9e97a8a986ecab3e86431d6be6df5ff79c31"
+    },
+    "sounds/mob/silverfish/say3.ogg": {
+        "size": 7060,
+        "hash": "e7f0f24c2c9f4bf83286b17109580d3e845d19e3"
+    },
+    "sounds/mob/zombiepig/zpighurt2.ogg": {
+        "size": 6245,
+        "hash": "d1917b9be91d60a40dd0bf804580c1f494e9ae6d"
+    },
+    "sounds/liquid/swim1.ogg": {
+        "size": 9227,
+        "hash": "6ea4e448fbc2a079acb0cf3564273083dadae165"
+    },
+    "sounds/mob/zombiepig/zpigangry3.ogg": {
+        "size": 9061,
+        "hash": "e0c88ca054666aae58b89abdcf377eae525aa13e"
+    },
+    "sounds/mob/horse/donkey/hit3.ogg": {
+        "size": 7500,
+        "hash": "4081b6ba7b4e345a0c48d791c54b6f59c1e2e1dc"
+    },
+    "lang/ar_SA.lang": {
+        "size": 78687,
+        "hash": "7767bf2b1e18ccb853fe47558ab55bd0da79c4a3",
+        "url": "https://resources.betacraft.uk/77/7767bf2b1e18ccb853fe47558ab55bd0da79c4a3"
+    },
+    "sounds/mob/endermen/death.ogg": {
+        "size": 16232,
+        "hash": "d04dd6d1f050353ef9e3ba9c45f407f831903c69"
+    },
+    "sounds/mob/zombie/say3.ogg": {
+        "size": 19806,
+        "hash": "7eb3affa45f47f919e74523a55185e65c2081d12"
+    },
+    "sounds/dig/stone1.ogg": {
+        "size": 6695,
+        "hash": "4e094ed8dfa98656d8fec52a7d20c5ee6098b6ad"
+    },
+    "sounds/mob/chicken/hurt1.ogg": {
+        "size": 7740,
+        "hash": "31b52151bf2a6fa35d2d2aa72f832285d9e7d70d"
+    },
+    "sounds/step/wood6.ogg": {
+        "size": 9093,
+        "hash": "944bc8b8e1e135340dc4afc6d3416a01222674a1"
+    },
+    "sounds/dig/gravel3.ogg": {
+        "size": 6905,
+        "hash": "48f7e1bb098abd36b9760cca27b9d4391a23de26"
+    },
+    "sounds/mob/wolf/howl1.ogg": {
+        "size": 16994,
+        "hash": "84556bac99c01ad006552cf5d96494817e9b1700"
+    },
+    "sounds/mob/horse/gallop1.ogg": {
+        "size": 8070,
+        "hash": "b489c51eb82814562b6e288a889e36ccd018928c"
+    },
+    "sounds/mob/bat/hurt3.ogg": {
+        "size": 5249,
+        "hash": "1599551814c141acd0c4a3c4a0ff83f4c4e3026d"
+    },
+    "sounds/mob/horse/wood4.ogg": {
+        "size": 6706,
+        "hash": "69ca9738d02cd8476943060a66652496c6669742"
+    },
+    "lang/sl_SI.lang": {
+        "size": 64928,
+        "hash": "bb67f5afd4fdb191a0b72dbb7dd6c72bf55ae39d",
+        "url": "https://resources.betacraft.uk/bb/bb67f5afd4fdb191a0b72dbb7dd6c72bf55ae39d"
+    },
+    "sounds/mob/pig/death.ogg": {
+        "size": 13694,
+        "hash": "4bc87ab869e17732a20c7518a327136baf5b2c26"
+    },
+    "sounds/step/snow3.ogg": {
+        "size": 6540,
+        "hash": "a4bc069321a96236fde04a3820664cc23b2ea619"
+    },
+    "sounds/mob/cat/purreow1.ogg": {
+        "size": 11787,
+        "hash": "d00791807e913e57d58fd891cb4dd10186cfdf38"
+    },
+    "sounds/mob/wolf/growl2.ogg": {
+        "size": 10311,
+        "hash": "f57577fe6915175f9e4576e8d73ad4077a381433"
+    },
+    "sounds/mob/horse/zombie/idle2.ogg": {
+        "size": 13333,
+        "hash": "fef8520e0d345fdc7c270687c8e4fca62be36c76"
+    },
+    "sounds/ambient/weather/thunder1.ogg": {
+        "size": 24468,
+        "hash": "671ef0ae7b59014a2f637d7af6d781324ab6309f"
+    },
+    "sounds/mob/cow/say3.ogg": {
+        "size": 13330,
+        "hash": "05f429069e65d78f7e6609d070a3f294cc3128ab"
+    },
+    "sounds/mob/irongolem/hit2.ogg": {
+        "size": 9140,
+        "hash": "bb92fd6971430a515f508a6734392511385826e1"
+    },
+    "sounds/mob/chicken/step1.ogg": {
+        "size": 3702,
+        "hash": "e0f0ba416a5744036e11bb6a5fc5ac4b8c461873"
+    },
+    "sounds/mob/chicken/plop.ogg": {
+        "size": 4680,
+        "hash": "ab5a32b70ef1e7aafc550b20afdb7dc8c0d5d901"
+    },
+    "sounds/mob/spider/death.ogg": {
+        "size": 14380,
+        "hash": "4c69a6edc25d973999aa0db2bb46b583a31da278"
+    },
+    "sounds/mob/zombie/step2.ogg": {
+        "size": 12214,
+        "hash": "e8dcca0e494a3f479f58f581c9a8e297cc92f4e7"
+    },
+    "sounds/mob/endermen/scream1.ogg": {
+        "size": 11231,
+        "hash": "c4b5265bbafbe058347058a257abe33a0afb5ab7"
+    },
+    "lang/no_NO.lang": {
+        "size": 63721,
+        "hash": "6d7f90bbe33f5eacb5aec31c07de0d7ae30da979",
+        "url": "https://resources.betacraft.uk/6d/6d7f90bbe33f5eacb5aec31c07de0d7ae30da979"
+    },
+    "sounds/mob/endermen/portal.ogg": {
+        "size": 10010,
+        "hash": "7b4b5323ef066caa1ae43cbe66fffd9dfce4ed32"
+    },
+    "sounds/mob/irongolem/death.ogg": {
+        "size": 17766,
+        "hash": "770b3f1feb05b9b941d858eb72b9d04ffc5d52c9"
+    },
+    "sounds/mob/silverfish/kill.ogg": {
+        "size": 10410,
+        "hash": "24cdac5a80fdad7ab31dc0695b57ece55aecb21a"
+    },
+    "sounds/mob/silverfish/step4.ogg": {
+        "size": 8842,
+        "hash": "a342f566600caf73464323b20b7770b5b9b7893a"
+    },
+    "sounds/mob/pig/step1.ogg": {
+        "size": 5285,
+        "hash": "05baaf5ed0cbdab08292b3962e1b1385e13b9dba"
+    },
+    "sounds/mob/slime/small5.ogg": {
+        "size": 4826,
+        "hash": "35f0b3c9c462a6c21ec213fbda2437a0e6427883"
+    },
+    "sounds/random/levelup.ogg": {
+        "size": 15799,
+        "hash": "b9c60e807ba770e8c4a2b1bae81d51813dc64b6c"
+    },
+    "lang/oc_FR.lang": {
+        "size": 68522,
+        "hash": "9335cb4685053155eef3267d7e6682587288cd3e",
+        "url": "https://resources.betacraft.uk/93/9335cb4685053155eef3267d7e6682587288cd3e"
+    },
+    "lang/de_DE.lang": {
+        "size": 66463,
+        "hash": "18ac4ce1872063928a4b88a38e0c76e21f2f9bee",
+        "url": "https://resources.betacraft.uk/18/18ac4ce1872063928a4b88a38e0c76e21f2f9bee"
+    },
+    "sounds/mob/wither/hurt1.ogg": {
+        "size": 16650,
+        "hash": "550da80d936e05a7bfda43ca5d8af5b3779320f1"
+    },
+    "sounds/fireworks/blast_far1.ogg": {
+        "size": 14727,
+        "hash": "cd9062e9e81f7cd35164a99669e5db32891a5cb5"
+    },
+    "sounds/random/orb.ogg": {
+        "size": 7139,
+        "hash": "e9833a1512b57bcf88ac4fdcc8df4e5a7e9d701d"
+    },
+    "sounds/damage/fallsmall.ogg": {
+        "size": 5232,
+        "hash": "09236e1a725cec0229b8c564f5b3e4fe05cd7a5f"
+    },
+    "sounds/mob/creeper/say1.ogg": {
+        "size": 6647,
+        "hash": "74771428c2aa2acbd30638c6706867053bad64d3"
+    },
+    "sounds/mob/wither/idle1.ogg": {
+        "size": 19699,
+        "hash": "22ed26394cb6f6b5eeb2ceb54fb50608798d19e8"
+    },
+    "sounds/mob/horse/gallop4.ogg": {
+        "size": 8320,
+        "hash": "11b2b7b9cac527ce8cfb1cee41285c163ad75869"
+    },
+    "sounds/step/ladder2.ogg": {
+        "size": 6125,
+        "hash": "fd446ad40d24edfe4fb789a6065276e164ea4b61"
+    },
+    "lang/lb_LU.lang": {
+        "size": 64400,
+        "hash": "8934bf080009c28f2cf412e9842ea0cd2c265946",
+        "url": "https://resources.betacraft.uk/89/8934bf080009c28f2cf412e9842ea0cd2c265946"
+    },
+    "sounds/mob/irongolem/walk4.ogg": {
+        "size": 7021,
+        "hash": "88ae6c906f8f94add2fe904b59c94e844bbcef9a"
+    },
+    "sounds/mob/magmacube/small2.ogg": {
+        "size": 5518,
+        "hash": "18237686efcaa1bf9084173c99d11ce0d37d4fc5"
+    },
+    "sounds/mob/wolf/death.ogg": {
+        "size": 7474,
+        "hash": "77a5d445ed9ee588846947ac3df63f84be6d569d"
+    },
+    "sounds/step/grass6.ogg": {
+        "size": 7709,
+        "hash": "b88cafe403394cdcd4de0e3aeb7b76f24170c6fe"
+    },
+    "sounds/random/eat1.ogg": {
+        "size": 5678,
+        "hash": "dfee39084c771182f6b9e7cfb8c8bc4e255747bc"
+    },
+    "sounds/note/bd.ogg": {
+        "size": 3850,
+        "hash": "1afefaa39a53606d2737bab9cb3409350cb2dc9f"
+    },
+    "sounds/ambient/weather/rain1.ogg": {
+        "size": 13185,
+        "hash": "d68bae1949299ccd8297aaa423dd12e041e83773"
+    },
+    "sounds/mob/cow/step4.ogg": {
+        "size": 7394,
+        "hash": "03063be15a77cc3f6815ec98090e351178190b33"
+    },
+    "sounds/dig/stone4.ogg": {
+        "size": 6516,
+        "hash": "363545a76277e5e47538b2dd3a0d6aa4f7a87d34"
+    },
+    "sounds/fireworks/largeBlast_far1.ogg": {
+        "size": 21914,
+        "hash": "bfb0e14bf130de4ecda75d8e793260e8bbaca35b"
+    },
+    "sounds/mob/horse/idle2.ogg": {
+        "size": 8699,
+        "hash": "ece0b410c81e9ba3e29440cc48005fc544aa5104"
+    },
+    "sounds/mob/blaze/hit1.ogg": {
+        "size": 7189,
+        "hash": "cb1cf4b405d930ad27f09ea39d6a64f35fc13308"
+    },
+    "sounds/mob/horse/soft2.ogg": {
+        "size": 6254,
+        "hash": "2bdd1bc318559543fe0f2a8e7338ef44c0290900"
+    },
+    "icons/minecraft.icns": {
+        "size": 114786,
+        "hash": "991b421dfd401f115241601b2b373140a8d78572"
+    },
+    "sounds/mob/zombie/step5.ogg": {
+        "size": 14377,
+        "hash": "b88bd8618c05232a7287799ea9246ae12f5da9d5"
+    },
+    "sounds/music/hal1.ogg": {
+        "size": 1972217,
+        "hash": "df1ff11b79757432c5c3f279e5ecde7b63ceda64"
+    },
+    "sounds/step/gravel4.ogg": {
+        "size": 8075,
+        "hash": "a47adece748059294c5f563c0fcac02fa0e4bab4"
+    },
+    "sounds/mob/ghast/moan1.ogg": {
+        "size": 7986,
+        "hash": "882d092b05faef1cfa6af43d642b9e8843f22756"
+    },
+    "sounds/mob/zombie/remedy.ogg": {
+        "size": 38114,
+        "hash": "8ed3945df8b9264c6451c153357475482d9f2066"
+    },
+    "sounds/dig/snow4.ogg": {
+        "size": 6501,
+        "hash": "e26fa3036cdab4c2264ceb19e1cd197a2a510227"
+    },
+    "sounds/mob/zombie/metal2.ogg": {
+        "size": 8889,
+        "hash": "6c5a03460012d7b76c16d0dbaa01c443a6ba094e"
+    },
+    "lang/th_TH.lang": {
+        "size": 100691,
+        "hash": "9912cc31c3db16bb4140991d9b2ad964aed326c6",
+        "url": "https://resources.betacraft.uk/99/9912cc31c3db16bb4140991d9b2ad964aed326c6"
+    },
+    "sounds/mob/wolf/step1.ogg": {
+        "size": 4777,
+        "hash": "b6a62224be809aa0c0747bee94499f0ee51ca2b6"
+    },
+    "sounds/mob/zombiepig/zpigdeath.ogg": {
+        "size": 10357,
+        "hash": "40b8e244d03ae17483edd4571bd851e10a97050f"
+    },
+    "sounds/random/explode4.ogg": {
+        "size": 25090,
+        "hash": "f259be40364341edcaf88e339bc24ab01e49845a"
+    },
+    "sounds/random/glass3.ogg": {
+        "size": 7592,
+        "hash": "ad7d770b7fff3b64121f75bd60cecfc4866d1cd6"
+    },
+    "lang/ja_JP.lang": {
+        "size": 75564,
+        "hash": "506844d5074098886319ede54f587ea838fc0ff7",
+        "url": "https://resources.betacraft.uk/50/506844d5074098886319ede54f587ea838fc0ff7"
+    },
+    "sounds/dig/gravel2.ogg": {
+        "size": 7501,
+        "hash": "c3b3797d04cb9640e1d3a72d5e96edb410388fa3"
+    },
+    "sounds/mob/bat/hurt4.ogg": {
+        "size": 5410,
+        "hash": "0ba4a7830ea8852bf7844872d7e2d2a408fb77e4"
+    },
+    "lang/pt_BR.lang": {
+        "size": 67143,
+        "hash": "8e9c2acfc5547ac60379e64ff1c38fd8370ac919",
+        "url": "https://resources.betacraft.uk/8e/8e9c2acfc5547ac60379e64ff1c38fd8370ac919"
+    },
+    "lang/es_MX.lang": {
+        "size": 67791,
+        "hash": "254ab03fb02ed78ed25b222a52585ee2dc0443fb",
+        "url": "https://resources.betacraft.uk/25/254ab03fb02ed78ed25b222a52585ee2dc0443fb"
+    },
+    "sounds/mob/magmacube/big4.ogg": {
+        "size": 9871,
+        "hash": "a63fd7965328425a0a8111640de19428d841933e"
+    },
+    "sounds/mob/enderdragon/wings4.ogg": {
+        "size": 11702,
+        "hash": "92488929c42221fb3f1dee397a32d2e4de615f3c"
+    },
+    "sounds/mob/cat/purreow2.ogg": {
+        "size": 12237,
+        "hash": "08573a1f11058b09c5855122dff47ceb209f771e"
+    },
+    "sounds/mob/cat/meow4.ogg": {
+        "size": 9560,
+        "hash": "4bf7c7a08c1217de7b1f0faf82429665fbf18458"
+    },
+    "sounds/step/snow4.ogg": {
+        "size": 6501,
+        "hash": "e26fa3036cdab4c2264ceb19e1cd197a2a510227"
+    },
+    "sounds/ambient/cave/cave8.ogg": {
+        "size": 49295,
+        "hash": "9024de3f1dd4bc1e8f445c7c5b812f25c7e31bf6"
+    },
+    "sounds/mob/slime/big3.ogg": {
+        "size": 9436,
+        "hash": "2c20816632caecf75f00bb968f51847e3a982e75"
+    },
+    "sounds/fire/fire.ogg": {
+        "size": 28689,
+        "hash": "8b260108a73470c16cd244325242d4780cfb7d78"
+    },
+    "sounds/mob/horse/leather.ogg": {
+        "size": 11577,
+        "hash": "20abaa7d3b0baa105bc6023d5308f1e5d76acc41"
+    },
+    "sounds/mob/horse/wood5.ogg": {
+        "size": 7930,
+        "hash": "52f58da2e750cf03137c968261b7af5cef599a00"
+    },
+    "sounds/mob/wolf/growl3.ogg": {
+        "size": 13663,
+        "hash": "69ef2fe8d6a744689953fd692d0106b0b2d2a9ce"
+    },
+    "sounds/mob/pig/step4.ogg": {
+        "size": 4483,
+        "hash": "f5e1ba4ac271b4c2feee86a4d04e32279ea99c10"
+    },
+    "lang/cs_CZ.lang": {
+        "size": 66818,
+        "hash": "53b85e47e07f9a24d57b6d5788fc4ff43f4f9e86",
+        "url": "https://resources.betacraft.uk/53/53b85e47e07f9a24d57b6d5788fc4ff43f4f9e86"
+    },
+    "sounds/fireworks/largeBlast1.ogg": {
+        "size": 17306,
+        "hash": "ef59205829f09ac4855c614a0e7046db820df18b"
+    },
+    "sounds/step/wood5.ogg": {
+        "size": 11520,
+        "hash": "85ff970401cb1ef2e812f943077ab96549315d0a"
+    },
+    "sounds/ambient/cave/cave1.ogg": {
+        "size": 33948,
+        "hash": "29d4dccf3353334c7aa2a49cb6fed3780a51a1ba"
+    },
+    "sounds/mob/zombie/say2.ogg": {
+        "size": 15423,
+        "hash": "bf5086623d5c6735271074b263116fb914ed79b5"
+    },
+    "sounds/dig/cloth3.ogg": {
+        "size": 4897,
+        "hash": "9c63f2a3681832dc32d206f6830360bfe94b5bfc"
+    },
+    "lang/fr_FR.lang": {
+        "size": 69553,
+        "hash": "52cb3842f4acecd196ff3562e8dfad843bf642ad",
+        "url": "https://resources.betacraft.uk/52/52cb3842f4acecd196ff3562e8dfad843bf642ad"
+    },
+    "sounds/random/splash.ogg": {
+        "size": 11333,
+        "hash": "22a491f266f5c3cdd6e669a9493daaf40c9c8575"
+    },
+    "sounds/mob/horse/armor.ogg": {
+        "size": 15195,
+        "hash": "2ccb16055e7974aba40987a46c4b6370b9296106"
+    },
+    "sounds/note/snare.ogg": {
+        "size": 3969,
+        "hash": "6967f0af60f480e81d32f1f8e5f88ccafec3a40c"
+    },
+    "sounds/dig/grass3.ogg": {
+        "size": 7194,
+        "hash": "f7d7e5c7089c9b45fa5d1b31542eb455fad995db"
+    },
+    "sounds/mob/zombie/wood3.ogg": {
+        "size": 8090,
+        "hash": "8184e851170619de93aa56244fb12c472a2ddd7d"
+    },
+    "lang/af_ZA.lang": {
+        "size": 64792,
+        "hash": "548cba85888b57a214a40f5d6a19204ec09509f4",
+        "url": "https://resources.betacraft.uk/54/548cba85888b57a214a40f5d6a19204ec09509f4"
+    },
+    "sounds/mob/irongolem/hit3.ogg": {
+        "size": 8947,
+        "hash": "27c78cd09f7fd1770a41d78247ccf57c77dbc773"
+    },
+    "sounds/mob/sheep/step5.ogg": {
+        "size": 5185,
+        "hash": "c289aa46fcbcfaf21c8080d57953fd45a4939294"
+    },
+    "sounds/mob/spider/say1.ogg": {
+        "size": 9045,
+        "hash": "65b49739d48ebc47879ca5528c8283329980b304"
+    },
+    "sounds/mob/wolf/hurt3.ogg": {
+        "size": 6381,
+        "hash": "a5b3f3cdda4d6e13629ccd0e2a38e1f06baa491a"
+    },
+    "sounds/mob/silverfish/hit1.ogg": {
+        "size": 7371,
+        "hash": "84c3b008dc1d5e0dd5e8ad85a06eca29f0591e48"
+    },
+    "lang/tlh_AA.lang": {
+        "size": 63226,
+        "hash": "429cb563cb0697caff2a074317dd0333e0c54c5b",
+        "url": "https://resources.betacraft.uk/42/429cb563cb0697caff2a074317dd0333e0c54c5b"
+    },
+    "sounds/liquid/lava.ogg": {
+        "size": 65328,
+        "hash": "9272aef9f27dfcc10b6e3879b7a2a67f8faa1a83"
+    },
+    "sounds/music/piano3.ogg": {
+        "size": 2665984,
+        "hash": "9528b6a76e7bac64ca1145cc682e8a8448cc04e5"
+    },
+    "sounds/records/mellohi.ogg": {
+        "size": 663709,
+        "hash": "6b44d0539073353b7a05330ccddc5735ba5efca4"
+    },
+    "sounds/ambient/weather/thunder2.ogg": {
+        "size": 25571,
+        "hash": "a20cbf2ddce541eaed520d7ec55665fe97428be6"
+    },
+    "sounds/mob/endermen/hit3.ogg": {
+        "size": 6564,
+        "hash": "aaa8f1705c873ebc05da460657c8b83fa01ffd57"
+    },
+    "sounds/mob/cow/say4.ogg": {
+        "size": 12300,
+        "hash": "80ce8d4b8d361b69e42d8d147e42a09d3c85a115"
+    },
+    "sounds/mob/zombie/unfect.ogg": {
+        "size": 19917,
+        "hash": "403c56cd190fb7587a26bcd1b7d2abac598c3ec0"
+    },
+    "sounds/random/glass2.ogg": {
+        "size": 7532,
+        "hash": "87c47bda3645c68f18a49e83cbf06e5302d087ff"
+    },
+    "sounds/mob/bat/takeoff.ogg": {
+        "size": 8821,
+        "hash": "ee6079d3826ac2994f3f58e62370f3c8ff9328e9"
+    },
+    "lang/he_IL.lang": {
+        "size": 74092,
+        "hash": "8adbd1dcab37261f51c92bea8c86a0aade5153a5",
+        "url": "https://resources.betacraft.uk/8a/8adbd1dcab37261f51c92bea8c86a0aade5153a5"
+    },
+    "sounds/random/eat2.ogg": {
+        "size": 5677,
+        "hash": "d26bde554d88f0ca156baf471c44ce2c0e68176c"
+    },
+    "sounds/dig/snow3.ogg": {
+        "size": 6540,
+        "hash": "a4bc069321a96236fde04a3820664cc23b2ea619"
+    },
+    "sounds/mob/horse/skeleton/hit1.ogg": {
+        "size": 7647,
+        "hash": "f111af513ba90b246a872e995f4b1722368899a9"
+    },
+    "sounds/mob/irongolem/walk3.ogg": {
+        "size": 6883,
+        "hash": "e0672d288b09996f7c7e1a0ca696de82b7a02d18"
+    },
+    "sounds/random/explode3.ogg": {
+        "size": 25298,
+        "hash": "a94a69e56568f5789cab05382cfd81f601189fd1"
+    },
+    "sounds/mob/wither/hurt2.ogg": {
+        "size": 16744,
+        "hash": "8072827813f0bffb9847e636245edebb5ddab198"
+    },
+    "sounds/mob/zombie/hurt1.ogg": {
+        "size": 11047,
+        "hash": "f35e14af35d1d12244dac9e655f4e31d4ef84e1b"
+    },
+    "sounds/fireworks/twinkle1.ogg": {
+        "size": 14328,
+        "hash": "41b9c631e9c1c40800b3b02a0ac5855d6ad4846d"
+    },
+    "sounds/mob/spider/say2.ogg": {
+        "size": 7405,
+        "hash": "501b40b97ee55cb7a97943ee620aa05131089fc2"
+    },
+    "sounds/note/pling.ogg": {
+        "size": 6274,
+        "hash": "20d06589bd5ab81a73989bdac8ca59ecd4d66932"
+    },
+    "sounds/mob/villager/idle1.ogg": {
+        "size": 8605,
+        "hash": "a772db3c8ac37dfeb3a761854fb96297257930ab"
+    },
+    "sounds/mob/horse/hit4.ogg": {
+        "size": 7133,
+        "hash": "73909900231d6f994e92cea983eb34d20cdd6461"
+    },
+    "sounds/mob/creeper/say2.ogg": {
+        "size": 6768,
+        "hash": "c46c7d2a84749bfcbcf576aea0d66fd3deccba31"
+    },
+    "sounds/mob/villager/hit2.ogg": {
+        "size": 5455,
+        "hash": "1d20194a6b2f883be478830f129e017257374629"
+    },
+    "sounds/music/piano2.ogg": {
+        "size": 824333,
+        "hash": "98a918eb2694defd19726436d4b9dca9e7dd6a65"
+    },
+    "sounds/mob/horse/death.ogg": {
+        "size": 15184,
+        "hash": "120def25aa3d41ceeae166c7572561b4fb345900"
+    },
+    "sounds/random/anvil_break.ogg": {
+        "size": 13741,
+        "hash": "705a155201cc388a0c0c6f7435ddbc0fcc56b5f2"
+    },
+    "lang/ca_ES.lang": {
+        "size": 67388,
+        "hash": "07098bb7d98bc47024bd3543cdc78d0f95fa782c",
+        "url": "https://resources.betacraft.uk/07/07098bb7d98bc47024bd3543cdc78d0f95fa782c"
+    },
+    "sounds/mob/horse/idle1.ogg": {
+        "size": 9846,
+        "hash": "fccee35ec3b76cf6cfbff0f269ed1a3b88459f22"
+    },
+    "sounds/mob/horse/soft3.ogg": {
+        "size": 6128,
+        "hash": "f85131ddb8e80f13d8917fcf9bd99256f8a7695a"
+    },
+    "sounds/minecart/inside.ogg": {
+        "size": 57426,
+        "hash": "6a83b514027c328b74f8428448dc6589d4b16388"
+    },
+    "sounds/step/grass5.ogg": {
+        "size": 7801,
+        "hash": "813ebd91b9c3fe1ac8f89f13c85d0755678f2165"
+    },
+    "sounds/mob/horse/donkey/hit1.ogg": {
+        "size": 6952,
+        "hash": "9580708c276c3ad24703ea7843e317b2845d272f"
+    },
+    "sounds/mob/silverfish/step1.ogg": {
+        "size": 8382,
+        "hash": "763cc79934a572b84c371cb49afad5912f29d2f1"
+    },
+    "sounds/step/stone1.ogg": {
+        "size": 8012,
+        "hash": "4a2e3795ffd4d3aab0834b7e41903af3a8f7d197"
+    },
+    "sounds/mob/zombie/metal3.ogg": {
+        "size": 8843,
+        "hash": "322374d89ed809e75005cdc4f6479c959e15aee2"
+    },
+    "sounds/mob/horse/angry1.ogg": {
+        "size": 10409,
+        "hash": "c80439669ee4c5ab6e236787f57fc6aa980dc6f9"
+    },
+    "sounds/mob/villager/no3.ogg": {
+        "size": 8697,
+        "hash": "9b8737d639df9e7ef99ceef49ce11df42eea9f12"
+    },
+    "sounds/mob/horse/skeleton/idle1.ogg": {
+        "size": 13016,
+        "hash": "195a4b987b0b97c238de9522eb74dd1bfeab202d"
+    },
+    "sounds/mob/sheep/say1.ogg": {
+        "size": 9784,
+        "hash": "a3ffeaa0a75b8d2bdc949c181a6f8db78f8976ca"
+    },
+    "sounds/portal/travel.ogg": {
+        "size": 54283,
+        "hash": "43388701fac432a567fe9fec421521e6348ad780"
+    },
+    "sounds/mob/blaze/hit2.ogg": {
+        "size": 7356,
+        "hash": "00b38fae5d28d99514a3e73a913af16359b12b7a"
+    },
+    "lang/nl_NL.lang": {
+        "size": 65360,
+        "hash": "7b0c05cb495da7928a73c281fe612abe81cbf3ab",
+        "url": "https://resources.betacraft.uk/7b/7b0c05cb495da7928a73c281fe612abe81cbf3ab"
+    },
+    "sounds/random/door_open.ogg": {
+        "size": 7536,
+        "hash": "5bb5a04e776d69ca12b1d7bc369975f9bf62e741"
+    },
+    "sounds/mob/horse/gallop3.ogg": {
+        "size": 7660,
+        "hash": "cf601e6c603b4186919f49462594da6e66edb7a2"
+    },
+    "sounds/step/ladder3.ogg": {
+        "size": 6281,
+        "hash": "3fee58d7b2c99ddbce962618176637574ae8d67b"
+    },
+    "sounds/mob/villager/yes3.ogg": {
+        "size": 6712,
+        "hash": "893e37d8d608cccd9c2404e785597c6a7c5f3593"
+    },
+    "sounds/mob/zombie/step4.ogg": {
+        "size": 9822,
+        "hash": "69b6e589ec3d2c9063972545e83ed1f07e665094"
+    },
+    "sounds/mob/endermen/hit4.ogg": {
+        "size": 5573,
+        "hash": "6e0f9074e049a6c30402d70cc75a5da99042e00c"
+    },
+    "sounds/mob/horse/zombie/hit1.ogg": {
+        "size": 8800,
+        "hash": "75feac0fe57873c7f2e93d4cccf24014ab8dc905"
+    },
+    "sounds/ambient/cave/cave9.ogg": {
+        "size": 27096,
+        "hash": "b463fa47816fe9a5dfe508093150e647403e4db6"
+    },
+    "sounds/mob/pig/step3.ogg": {
+        "size": 4722,
+        "hash": "6226903c5dfd8ac388f9d64a5fa9968680ed3507"
+    },
+    "sounds/mob/bat/death.ogg": {
+        "size": 8726,
+        "hash": "6df3b2c2b951863fc5200edf3ff3396b105ed897"
+    },
+    "sounds/mob/endermen/idle5.ogg": {
+        "size": 9108,
+        "hash": "e746ec4574aaa047be3076729753c2c75fd34630"
+    },
+    "lang/hi_IN.lang": {
+        "size": 97383,
+        "hash": "3085b7b1650cc6c2eafd880a2521107c18dd8034",
+        "url": "https://resources.betacraft.uk/30/3085b7b1650cc6c2eafd880a2521107c18dd8034"
+    },
+    "sounds/ambient/weather/thunder3.ogg": {
+        "size": 27653,
+        "hash": "9ead5c928f9122e3c2f5fc4f6ce7fb4054a2b578"
+    },
+    "sounds/records/mall.ogg": {
+        "size": 1430016,
+        "hash": "83233451430516d839eaee855a2f789b8985d457"
+    },
+    "sounds/random/wood_click.ogg": {
+        "size": 4385,
+        "hash": "b210a3c371441b77fe873133b2cb7b63e367b2f3"
+    },
+    "lang/en_GB.lang": {
+        "size": 62802,
+        "hash": "4f9913f75a57de399a4838c3a33e0d79cfd31b8e",
+        "url": "https://resources.betacraft.uk/4f/4f9913f75a57de399a4838c3a33e0d79cfd31b8e"
+    },
+    "sounds.json": {
+        "size": 34289,
+        "hash": "d831ab0882e9aca0e5912c6c91817d9f5f5e5dfb",
+        "url": "https://resources.betacraft.uk/d8/d831ab0882e9aca0e5912c6c91817d9f5f5e5dfb"
+    },
+    "sounds/dig/gravel1.ogg": {
+        "size": 6851,
+        "hash": "e8b89f316f3e9989a87f6e6ff12db9abe0f8b09f"
+    },
+    "sounds/fireworks/blast1.ogg": {
+        "size": 11071,
+        "hash": "d9d7511e8944da0c7ab4ed2d3e3d964f98dd6997"
+    },
+    "sounds/mob/zombie/say1.ogg": {
+        "size": 16877,
+        "hash": "b5bc9775243437d87317ab3a66ec8a4d5b96c83d"
+    },
+    "sounds/dig/stone3.ogg": {
+        "size": 6627,
+        "hash": "8f23c02475d388b23e5faa680eafe6b991d7a9d4"
+    },
+    "sounds/music/calm1.ogg": {
+        "size": 2530812,
+        "hash": "50a59a4f56e4046701b758ddbb1c1587efa4cadf"
+    },
+    "sounds/note/bassattack.ogg": {
+        "size": 5574,
+        "hash": "037b9fb7f74381f354739d015193dc4a6897f620"
+    },
+    "lang/et_EE.lang": {
+        "size": 64704,
+        "hash": "908b547712e7c0cf26d5923fec7f4d85c9614b10",
+        "url": "https://resources.betacraft.uk/90/908b547712e7c0cf26d5923fec7f4d85c9614b10"
+    },
+    "sounds/mob/enderdragon/wings3.ogg": {
+        "size": 10373,
+        "hash": "eb58ef697b2cbaed218edc758e00412302c75962"
+    },
+    "sounds/mob/slime/big2.ogg": {
+        "size": 7931,
+        "hash": "00e06362a31ad7094e452c5bcea837b061825cb0"
+    },
+    "sounds/mob/enderdragon/hit4.ogg": {
+        "size": 10812,
+        "hash": "d2c44730f6c93676d4e4316add92e424d0a71a33"
+    },
+    "sounds/mob/magmacube/small1.ogg": {
+        "size": 6269,
+        "hash": "5c633c345fe4cb87c36ada2fe2b5da1b80601cf3"
+    },
+    "sounds/step/wood4.ogg": {
+        "size": 9651,
+        "hash": "29586f60bfe6f521dbc748919d4f0dc5b28beefd"
+    },
+    "sounds/records/cat.ogg": {
+        "size": 1286636,
+        "hash": "d1eb3d2e39bf1f6289cfcbca44e1c9bb508b20f0"
+    },
+    "sounds/mob/villager/hit3.ogg": {
+        "size": 5424,
+        "hash": "242114e81d0f4858d91fe06b7e78b86eec3127cd"
+    },
+    "lang/eu_ES.lang": {
+        "size": 68481,
+        "hash": "d8989e06ce0b408da6c28ffda25591f21ac1fec2",
+        "url": "https://resources.betacraft.uk/d8/d8989e06ce0b408da6c28ffda25591f21ac1fec2"
+    },
+    "sounds/mob/irongolem/throw.ogg": {
+        "size": 5316,
+        "hash": "607d51883e137d5d423dde865232ab1ee78f2694"
+    },
+    "sounds/mob/skeleton/step4.ogg": {
+        "size": 8508,
+        "hash": "a89bdd809baa83cacd329f0219bca1f612ccda5a"
+    },
+    "sounds/mob/zombie/wood2.ogg": {
+        "size": 7649,
+        "hash": "dc86fbd59cf0e87cd35b22df2a2df899ab8c1f7f"
+    },
+    "sounds/mob/wither/spawn.ogg": {
+        "size": 151896,
+        "hash": "d8caaead680c20a4f51361587aeddd57a3357a72"
+    },
+    "sounds/mob/irongolem/hit4.ogg": {
+        "size": 8686,
+        "hash": "a2dbb90f23b0babe7c569ceca28db49d0c112714"
+    },
+    "sounds/dig/grass2.ogg": {
+        "size": 7691,
+        "hash": "86cb1bb0c45625b18e00a64098cd425a38f6d3f2"
+    },
+    "sounds/step/stone6.ogg": {
+        "size": 8178,
+        "hash": "c4810a3de80cb57f9cdf8deaacfd36cb619cdf0b"
+    },
+    "sounds/mob/endermen/scream4.ogg": {
+        "size": 10411,
+        "hash": "bcc73584d83225383aaa6affce905392c96afe86"
+    },
+    "sounds/records/chirp.ogg": {
+        "size": 1379756,
+        "hash": "ec8a2cbdf68b4e2136098ec33695e1c53625ddb8"
+    },
+    "sounds/mob/horse/hit3.ogg": {
+        "size": 6227,
+        "hash": "559a1c7dbf17f8357b6d505f2a072f22efe0f43c"
+    },
+    "lang/uk_UA.lang": {
+        "size": 87005,
+        "hash": "e364ceae9c03c5b56f038bc65d5d3e92d361c7a3",
+        "url": "https://resources.betacraft.uk/e3/e364ceae9c03c5b56f038bc65d5d3e92d361c7a3"
+    },
+    "sounds/random/click.ogg": {
+        "size": 7046,
+        "hash": "2fe092579d9637e2d160319820ee08e60a237bb7"
+    },
+    "sounds/mob/villager/hit1.ogg": {
+        "size": 5843,
+        "hash": "101e3535d3f482acb6d1d0259d53d12b25979788"
+    },
+    "sounds/mob/skeleton/hurt2.ogg": {
+        "size": 7798,
+        "hash": "d1ad2cbe6584d9cd9483483f8655966d25a251a0"
+    },
+    "lang/is_IS.lang": {
+        "size": 64992,
+        "hash": "fb1e7507a7870807bea78e6982c0e69a242090b2",
+        "url": "https://resources.betacraft.uk/fb/fb1e7507a7870807bea78e6982c0e69a242090b2"
+    },
+    "sounds/mob/enderdragon/growl2.ogg": {
+        "size": 27101,
+        "hash": "d859c9c5be04ffc41479b306814a933983eaa235"
+    },
+    "sounds/mob/wolf/step3.ogg": {
+        "size": 4745,
+        "hash": "30e920526eb5855065b873e30d17b4d85bfbe570"
+    },
+    "sounds/mob/ghast/moan3.ogg": {
+        "size": 8925,
+        "hash": "dcec2d45fbc25f74a399ec9f8001e0ecd2d5d85e"
+    },
+    "sounds/random/glass1.ogg": {
+        "size": 7443,
+        "hash": "7274a2231ed4544a37e599b7b014e589e5377094"
+    },
+    "sounds/step/gravel2.ogg": {
+        "size": 7921,
+        "hash": "ac7a7c8d106e26abc775b1b46150c083825d8ddc"
+    },
+    "sounds/dig/snow2.ogg": {
+        "size": 6567,
+        "hash": "5887d10234c4f244ec5468080412f3e6ef9522f3"
+    },
+    "sounds/mob/sheep/say2.ogg": {
+        "size": 8875,
+        "hash": "1cfd864cbda555477ed9523e640de0d234c18858"
+    },
+    "sounds/step/grass4.ogg": {
+        "size": 7377,
+        "hash": "bc28801224a0aa77fdc93bb7c6c94beacdf77331"
+    },
+    "lang/ro_RO.lang": {
+        "size": 68918,
+        "hash": "d91b7f0aa9511c340477d049cda55b4a93371974",
+        "url": "https://resources.betacraft.uk/d9/d91b7f0aa9511c340477d049cda55b4a93371974"
+    },
+    "sounds/step/ladder4.ogg": {
+        "size": 6182,
+        "hash": "f78ede81160002fc0561218c7ecd97e91cccab7c"
+    },
+    "sounds/dig/cloth2.ogg": {
+        "size": 4862,
+        "hash": "56c1d0ac0de2265018b2c41cb571cc6631101484"
+    },
+    "sounds/mob/endermen/idle1.ogg": {
+        "size": 6793,
+        "hash": "281b87984ddf8e94324bc86911a36c971cb3d831"
+    },
+    "sounds/dig/wood3.ogg": {
+        "size": 6604,
+        "hash": "45b2aef7b5049e81b39b58f8d631563fadcc778b"
+    },
+    "sounds/step/stone2.ogg": {
+        "size": 7086,
+        "hash": "22a383d9c22342305a4f16fec0bb479a885f8da2"
+    },
+    "sounds/fire/ignite.ogg": {
+        "size": 6418,
+        "hash": "a0d1fbff7e938e92c10c1576339dda668f40e111"
+    },
+    "sounds/mob/sheep/shear.ogg": {
+        "size": 6870,
+        "hash": "5d9055cf25f126c47e18637aeef917fa1ef61a42"
+    },
+    "sounds/mob/slime/small1.ogg": {
+        "size": 6269,
+        "hash": "5cde2500773323f7997d75062f8a26afcdf62b2e"
+    },
+    "sounds/mob/zombiepig/zpig1.ogg": {
+        "size": 8536,
+        "hash": "ec4b0396dd2fc2da8fab91ddc35218d3426349b3"
+    },
+    "sounds/step/cloth1.ogg": {
+        "size": 4832,
+        "hash": "5fd568d724ba7d53911b6cccf5636f859d2662e8"
+    },
+    "sounds/damage/hit2.ogg": {
+        "size": 6227,
+        "hash": "144867e8792415e2873293f06ecce85cd32bb4e8"
+    },
+    "sounds/mob/wolf/bark1.ogg": {
+        "size": 5398,
+        "hash": "2452c64a55eaef86bf1b668bb4d5f3b641cd8f25"
+    },
+    "sounds/music/calm2.ogg": {
+        "size": 1976731,
+        "hash": "74da65c99aa578486efa7b69983d3533e14c0d6e"
+    },
+    "icons/icon_32x32.png": {
+        "size": 5362,
+        "hash": "92750c5f93c312ba9ab413d546f32190c56d6f1f"
+    },
+    "sounds/mob/blaze/breathe1.ogg": {
+        "size": 22308,
+        "hash": "4e398c518ae706ad4d90afd6914f748faf18a7b5"
+    },
+    "sounds/mob/wolf/hurt1.ogg": {
+        "size": 6164,
+        "hash": "71b5fc7aa050892f8c9a9ed2713cc1ad8874742a"
+    },
+    "sounds/random/fizz.ogg": {
+        "size": 17002,
+        "hash": "c649e60ea9a99c97501a50d2dc4e579343e91ea8"
+    },
+    "sounds/step/grass1.ogg": {
+        "size": 7126,
+        "hash": "227ab99bf7c6cf0b2002e0f7957d0ff7e5cb0c96"
+    },
+    "sounds/step/sand1.ogg": {
+        "size": 5123,
+        "hash": "9813c8185197f4a4296649f27a9d738c4a6dfc78"
+    },
+    "sounds/mob/endermen/idle4.ogg": {
+        "size": 11208,
+        "hash": "405e2f82caef7f79eb9e26886520711e446366ce"
+    },
+    "sounds/mob/horse/breathe3.ogg": {
+        "size": 7205,
+        "hash": "b6f6330f1a5c1a3a975e852c02b0543135295d86"
+    },
+    "sounds/mob/cow/step3.ogg": {
+        "size": 7923,
+        "hash": "482919bc631b317422ab44af3938259bea73fe83"
+    },
+    "sounds/dig/sand4.ogg": {
+        "size": 5491,
+        "hash": "37afa06f97d58767a1cd1382386db878be1532dd"
+    },
+    "sounds/mob/cat/purr3.ogg": {
+        "size": 34965,
+        "hash": "eed7a9305f5879448bb94355f25279b4aac403b6"
+    },
+    "sounds/mob/ghast/charge.ogg": {
+        "size": 13415,
+        "hash": "6f1d403f47725af0f4c42a74cfec00ff59153160"
+    },
+    "lang/zh_TW.lang": {
+        "size": 63008,
+        "hash": "9a82af1fe19abcf45a226b7fabbf2bbb6340ae79",
+        "url": "https://resources.betacraft.uk/9a/9a82af1fe19abcf45a226b7fabbf2bbb6340ae79"
+    },
+    "sounds/mob/wither/hurt3.ogg": {
+        "size": 16731,
+        "hash": "a4cf4ebe4c475cd6a4852d6b4228a4b64cf5cb00"
+    },
+    "sounds/liquid/swim4.ogg": {
+        "size": 7836,
+        "hash": "6a908e7c7d61e01bc4223b4991820bfc56f84c5e"
+    },
+    "sounds/step/wood3.ogg": {
+        "size": 9368,
+        "hash": "27722125968ac60c0f191a961b17e406f1351c6e"
+    },
+    "sounds/mob/endermen/hit1.ogg": {
+        "size": 6883,
+        "hash": "753a88c1d9b3b46210c18ff07974955463edd18b"
+    },
+    "lang/la_LA.lang": {
+        "size": 65429,
+        "hash": "e4a649d572b30fc6d5bee257e5cb1ae1e6e07400",
+        "url": "https://resources.betacraft.uk/e4/e4a649d572b30fc6d5bee257e5cb1ae1e6e07400"
+    },
+    "sounds/ambient/cave/cave6.ogg": {
+        "size": 42176,
+        "hash": "cf23204a9cca2ac7f9674168cc063cfb4dbe001f"
+    },
+    "sounds/mob/skeleton/step3.ogg": {
+        "size": 8565,
+        "hash": "000c82756fd54e40cb236199f2b479629d0aca2f"
+    },
+    "sounds/mob/cat/hiss1.ogg": {
+        "size": 14666,
+        "hash": "9d2202fce7908dcc5b5c8758c5cd517d863d4dd3"
+    },
+    "sounds/mob/silverfish/hit3.ogg": {
+        "size": 7205,
+        "hash": "5b1675279bbc245fc6bbb705de8ea09fb3f32b53"
+    },
+    "sounds/random/chestopen.ogg": {
+        "size": 8703,
+        "hash": "186d5d9481d59cc99bc4be1b5fbb98d0ef877b8e"
+    },
+    "sounds/mob/ghast/scream1.ogg": {
+        "size": 10828,
+        "hash": "a0e62d86e5899405df4e796fe648e091d828691d"
+    },
+    "sounds/step/stone5.ogg": {
+        "size": 7752,
+        "hash": "48dd05ab2e4626d74206c2b09a628a3d59ce15e9"
+    },
+    "sounds/mob/horse/zombie/hit2.ogg": {
+        "size": 6894,
+        "hash": "db6d67850ac177a7407748d7efa52fa1b7b57982"
+    },
+    "sounds/mob/enderdragon/wings6.ogg": {
+        "size": 11150,
+        "hash": "e7e8d393fc03a476227890e9ec9319dcc4b400ea"
+    },
+    "sounds/mob/skeleton/say3.ogg": {
+        "size": 8161,
+        "hash": "a11ac56ec61c17e99f4ee33d8712404edf442720"
+    },
+    "sounds/note/harp.ogg": {
+        "size": 6137,
+        "hash": "46244605b8663a29cdce7bccc5b2d038241e32ee"
+    },
+    "sounds/mob/bat/idle3.ogg": {
+        "size": 4777,
+        "hash": "e641dd3d6607db86b7574fe82781a34ad74f6c77"
+    },
+    "lang/mt_MT.lang": {
+        "size": 67446,
+        "hash": "6c1cc175bc7bc89e1101da98f5ce22d5e86e524b",
+        "url": "https://resources.betacraft.uk/6c/6c1cc175bc7bc89e1101da98f5ce22d5e86e524b"
+    },
+    "sounds/mob/wither/idle2.ogg": {
+        "size": 19332,
+        "hash": "6b2f86a35a3cd88320b55c029d77659915f83239"
+    },
+    "sounds/mob/horse/jump.ogg": {
+        "size": 7501,
+        "hash": "9e49d50a15b74ec6ac4745b0de3e1848178ea437"
+    },
+    "sounds/random/break.ogg": {
+        "size": 6551,
+        "hash": "8bf3ecb0fe9a6a615f5995e3dd21b6c39adc21d5"
+    },
+    "sounds/mob/sheep/step3.ogg": {
+        "size": 4843,
+        "hash": "101164ea1b442a8e1e8ca181d9cef833c57d7be3"
+    },
+    "sounds/mob/wolf/shake.ogg": {
+        "size": 13502,
+        "hash": "3d95ea49e91b4295859b193bb41b009b92250a44"
+    },
+    "sounds/mob/wolf/step2.ogg": {
+        "size": 4766,
+        "hash": "4ba55627b6b9ce64b4a48a00c990d5855b6064cf"
+    },
+    "sounds/step/gravel3.ogg": {
+        "size": 7488,
+        "hash": "c109b985a7e6d5d3828c92e00aefa49deca0eb8c"
+    },
+    "sounds/step/wood1.ogg": {
+        "size": 8985,
+        "hash": "afb01196e2179e3b15b48f3373cea4c155d56b84"
+    },
+    "sounds/mob/spider/step4.ogg": {
+        "size": 9326,
+        "hash": "7d801582e08be973d1a41469d1b92916278d1e88"
+    },
+    "lang/es_VE.lang": {
+        "size": 67953,
+        "hash": "96a19bb319cf8658747bbc58066d0a5a58655a91",
+        "url": "https://resources.betacraft.uk/96/96a19bb319cf8658747bbc58066d0a5a58655a91"
+    },
+    "sounds/mob/enderdragon/growl1.ogg": {
+        "size": 26384,
+        "hash": "049a3049a5ac8631a6c5f367b7d824fc0d8de39b"
+    },
+    "sounds/step/stone3.ogg": {
+        "size": 6631,
+        "hash": "a533e7ae975e62592de868e0d0572778614bd587"
+    },
+    "sounds/mob/zombie/metal1.ogg": {
+        "size": 8632,
+        "hash": "d5b2d34e0c07a6c09c1adb17a15e50a626a88bc1"
+    },
+    "sounds/damage/fallbig.ogg": {
+        "size": 6079,
+        "hash": "1d183c36f596e85c4fb564ff2667332211e49659"
+    },
+    "lang/zh_CN.lang": {
+        "size": 62154,
+        "hash": "95a3b5ec15f45924673a9f41b93e6d1f5892a96d",
+        "url": "https://resources.betacraft.uk/95/95a3b5ec15f45924673a9f41b93e6d1f5892a96d"
+    },
+    "sounds/mob/skeleton/death.ogg": {
+        "size": 17073,
+        "hash": "641e601132b4adb67951e0d49c1004cf1b86eff2"
+    },
+    "sounds/records/blocks.ogg": {
+        "size": 2587419,
+        "hash": "9b2a01e0d0456b8fbe33557fbc19d4fe342f94d6"
+    },
+    "sounds/dig/wood4.ogg": {
+        "size": 6817,
+        "hash": "dc66978374a46ab2b87db6472804185824868095"
+    },
+    "lang/en_CA.lang": {
+        "size": 63024,
+        "hash": "08396530d01acdbf1f0c297c39f36947d6a9cd88",
+        "url": "https://resources.betacraft.uk/08/08396530d01acdbf1f0c297c39f36947d6a9cd88"
+    },
+    "lang/ko_KR.lang": {
+        "size": 70997,
+        "hash": "028b2ef9856628d0064cca62f70abab5b531ad7c",
+        "url": "https://resources.betacraft.uk/02/028b2ef9856628d0064cca62f70abab5b531ad7c"
+    },
+    "sounds/mob/ghast/scream2.ogg": {
+        "size": 11455,
+        "hash": "57008a7f564443d563968fd040fc13ab226fc8d1"
+    },
+    "sounds/mob/skeleton/hurt1.ogg": {
+        "size": 9986,
+        "hash": "4d03069c0e14794b463f563044da46433776da60"
+    },
+    "sounds/mob/ghast/moan2.ogg": {
+        "size": 8909,
+        "hash": "02073c284f025653e55f9cde25a4a62723d395fa"
+    },
+    "sounds/mob/wolf/bark3.ogg": {
+        "size": 5645,
+        "hash": "1ddae4e8dfa605e27ec8278b3e312597b674437e"
+    },
+    "sounds/step/ladder5.ogg": {
+        "size": 6077,
+        "hash": "e9a1caaddcde79cdac7aa8eabde50d4cfd1bc578"
+    },
+    "sounds/mob/pig/step5.ogg": {
+        "size": 5493,
+        "hash": "56d6fd65958fb25bf9b4033a87655b591e222005"
+    },
+    "sounds/mob/endermen/idle2.ogg": {
+        "size": 8236,
+        "hash": "9c7aaf49b3096a69a2d6ca62c1067400a2b70814"
+    },
+    "sounds/mob/blaze/death.ogg": {
+        "size": 30155,
+        "hash": "17491c8dd9511e9d848c92b4b7ae047aed164072"
+    },
+    "sounds/mob/cat/hiss3.ogg": {
+        "size": 13708,
+        "hash": "c7e424eb00712614a183adf5d17b949175ff00df"
+    },
+    "sounds/mob/horse/hit2.ogg": {
+        "size": 5924,
+        "hash": "d6ceab79e5cb41ab8181188361bdb553b2f645a3"
+    },
+    "sounds/mob/skeleton/step1.ogg": {
+        "size": 8444,
+        "hash": "68e0a58848bbdad12ad2b216d7244754459c9516"
+    },
+    "lang/hy_AM.lang": {
+        "size": 84219,
+        "hash": "8d2296f2170aba1f500e2e0d0373fefe079d8163",
+        "url": "https://resources.betacraft.uk/8d/8d2296f2170aba1f500e2e0d0373fefe079d8163"
+    },
+    "sounds/step/grass3.ogg": {
+        "size": 7013,
+        "hash": "76de0a736928eac5003691d73bdc2eda92116198"
+    },
+    "READ_ME_I_AM_VERY_IMPORTANT": {
+        "size": 561,
+        "hash": "616567fb2ee087c93409c33dd0a370ca4203d473",
+        "url": "https://resources.betacraft.uk/61/616567fb2ee087c93409c33dd0a370ca4203d473"
+    },
+    "sounds/mob/pig/say1.ogg": {
+        "size": 5645,
+        "hash": "a99bf88163bcb576e31e6e2275145afba6d1b4c7"
+    },
+    "sounds/mob/zombiepig/zpig2.ogg": {
+        "size": 10038,
+        "hash": "2cbbcdfb97939c469cd4ccaaac74504497c56695"
+    },
+    "sounds/random/burp.ogg": {
+        "size": 6337,
+        "hash": "bdc648e04933df8ddcccc84b375d6556776d4331"
+    },
+    "sounds/damage/hit3.ogg": {
+        "size": 7660,
+        "hash": "c73dcedde5031fcf242b08b3405f63098cd70641"
+    },
+    "lang/tr_TR.lang": {
+        "size": 66117,
+        "hash": "13fd28bc7d26d65c5e5f6419b3798013cf4651c3",
+        "url": "https://resources.betacraft.uk/13/13fd28bc7d26d65c5e5f6419b3798013cf4651c3"
+    },
+    "sounds/step/grass2.ogg": {
+        "size": 8131,
+        "hash": "5c971029d9284676dce1dda2c9d202f8c47163b2"
+    },
+    "sounds/music/calm3.ogg": {
+        "size": 2232651,
+        "hash": "14ae57a6bce3d4254daa8be2b098c2d99743cc3f"
+    },
+    "sounds/mob/bat/idle4.ogg": {
+        "size": 5274,
+        "hash": "a323a968296882e15c743ccdc8cb8057557ae712"
+    },
+    "sounds/mob/slime/attack2.ogg": {
+        "size": 7391,
+        "hash": "f6e2067571631aae206000a501c9adebe862e32a"
+    },
+    "sounds/step/sand2.ogg": {
+        "size": 5114,
+        "hash": "bd1750c016f6bab40934eff0b0fb64c41c86e44b"
+    },
+    "sounds/dig/cloth4.ogg": {
+        "size": 4844,
+        "hash": "55da1856e77cfd31a7e8c3d358e1f856c5583198"
+    },
+    "sounds/mob/horse/soft6.ogg": {
+        "size": 6970,
+        "hash": "352118247b942b2c0df66f2a9a60cb1fb4792446"
+    },
+    "sounds/fireworks/twinkle_far1.ogg": {
+        "size": 23987,
+        "hash": "c8053e3b083b08840276de9a728202551302f416"
+    },
+    "sounds/mob/pig/say2.ogg": {
+        "size": 6798,
+        "hash": "ab615a912fb8ea06648836e0ec1cbeeefe117da6"
+    },
+    "sounds/mob/horse/donkey/idle1.ogg": {
+        "size": 6269,
+        "hash": "d2cd73933fb1f6dbcb0dd170fde6fc8a49d709b9"
+    },
+    "sounds/mob/magmacube/jump1.ogg": {
+        "size": 12540,
+        "hash": "86a2a7206c769aaa9435aabba70be201cb3e3a6b"
+    },
+    "sounds/dig/grass4.ogg": {
+        "size": 7163,
+        "hash": "c7b1005d4926f6a2e2387a41ab1fb48a72f18e98"
+    },
+    "sounds/mob/zombie/wood4.ogg": {
+        "size": 7608,
+        "hash": "1028d0a373790e14c34786a925c4656bdaeb4c4d"
+    },
+    "sounds/mob/sheep/say3.ogg": {
+        "size": 9150,
+        "hash": "c9ac72409cbe6093e84d72a2a5c719d9e4a0e6b2"
+    },
+    "sounds/mob/endermen/idle3.ogg": {
+        "size": 10073,
+        "hash": "bc4c2e76d3b5a0e6f9d5837fe82ed26e808aa918"
+    },
+    "sounds/mob/wolf/hurt2.ogg": {
+        "size": 6082,
+        "hash": "bc2f6a5a1b6646eac1681b7414b098089aedf3c6"
+    },
+    "sounds/random/anvil_use.ogg": {
+        "size": 13633,
+        "hash": "88a792430dfff97582ab49b8dc9477cd9d4e5ebb"
+    },
+    "sounds/mob/cat/hiss2.ogg": {
+        "size": 13451,
+        "hash": "063bf0fce35c547eb59f086dbb56c5fe329cbcf4"
+    },
+    "sounds/mob/silverfish/hit2.ogg": {
+        "size": 6717,
+        "hash": "38d4d36bbe40a48c3a8ef97735b59b37f013fd6e"
+    },
+    "sounds/mob/horse/zombie/hit3.ogg": {
+        "size": 7043,
+        "hash": "ad126e435cca94054bf0d616301799a105526cde"
+    },
+    "sounds/note/bass.ogg": {
+        "size": 5479,
+        "hash": "e28d844995368de1d45c724a5d371c9952ae5ed4"
+    },
+    "sounds/mob/endermen/hit2.ogg": {
+        "size": 6491,
+        "hash": "cf60aefd0b742c3fa15e808c1a0c33aebd534cc5"
+    },
+    "sounds/mob/wither/hurt4.ogg": {
+        "size": 16699,
+        "hash": "72a006be3bd693aa23cc2f8e9c9d13ea6f829aa1"
+    },
+    "sounds/mob/ghast/affectionate_scream.ogg": {
+        "size": 9367,
+        "hash": "99cd73dda425ee03836c2274a0fcf331139773dc"
+    },
+    "sounds/dig/snow1.ogg": {
+        "size": 6532,
+        "hash": "e9bab7d3d15541f0aaa93fad31ad37fd07e03a6c"
+    },
+    "sounds/mob/slime/big4.ogg": {
+        "size": 9871,
+        "hash": "c906c18d26550ae15c75e23f2c5066e4fc678c89"
+    },
+    "sounds/step/cloth2.ogg": {
+        "size": 4862,
+        "hash": "56c1d0ac0de2265018b2c41cb571cc6631101484"
+    },
+    "lang/cy_GB.lang": {
+        "size": 65172,
+        "hash": "d9970eaa608fdd198e56c0b8a7141029273aeba5",
+        "url": "https://resources.betacraft.uk/d9/d9970eaa608fdd198e56c0b8a7141029273aeba5"
+    },
+    "sounds/mob/villager/death.ogg": {
+        "size": 8428,
+        "hash": "97c65b93b9bff839786e23d8cb7c98ef3be4fe2d"
+    },
+    "sounds/ambient/cave/cave7.ogg": {
+        "size": 45278,
+        "hash": "c8dd60f7e7087da52a431c1dbc0f397317b374fb"
+    },
+    "lang/fi_FI.lang": {
+        "size": 66874,
+        "hash": "6ec85d23cfc6499881edf2cf8246b3e6bf444c12",
+        "url": "https://resources.betacraft.uk/6e/6ec85d23cfc6499881edf2cf8246b3e6bf444c12"
+    },
+    "sounds/mob/enderdragon/wings5.ogg": {
+        "size": 11659,
+        "hash": "fa6d89b586c5ca29efe85c8d373ff9ee19488d40"
+    },
+    "sounds/mob/sheep/step4.ogg": {
+        "size": 5018,
+        "hash": "6ff26a1439fb6f9f353c2bd623edeb936e760855"
+    }
+}}
